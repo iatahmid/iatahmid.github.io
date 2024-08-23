@@ -21,9 +21,9 @@ repository               : "iatahmid/iatahmid.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/bio-photo-1.jpg"
+  avatar           : "https://iatahmid.github.io/images/bio-photo-2.jpg"
   name             : "Ibrahim Tahmid"
-  pronouns         : # example: "he/him"  
+  pronouns         : "he/him"  
   bio              : "Mixed Reality Scientist"
   location         : "Virginia, USA"
   employer         : "Virginia Tech"
