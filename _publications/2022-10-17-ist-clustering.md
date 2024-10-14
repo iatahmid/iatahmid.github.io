@@ -1,7 +1,7 @@
 ---
 title: "Evaluating the benefits of explicit and semi-automated clusters for immersive sensemaking"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/2022-10-17-ist-clustering
 excerpt: 'IST Clustering paper.'
 date: 2022-10-17
