@@ -15,7 +15,7 @@ However, although the sci-fi movie-style scenario sounds exciting and promising,
 
 <h2>Latest News</h2>
 <ul>
-  {% for post in site.posts %}
+  {% for post in site.news %}
     <li>
       <strong>{{ post.date | date: "%B %Y" }}:</strong> <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
