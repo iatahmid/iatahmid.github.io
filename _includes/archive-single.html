@@ -52,18 +52,18 @@
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
     
-    {% if post.citation and post.paperurl and post.slidesurl %}
-      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.slidesurl }}">Prototype</a></p>
+    {% if post.citation and post.paperurl and post.prototypeurl %}
+      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Read Full Paper</a> | <a href="{{ post.prototypeurl }}">See Prototype</a></p>
     {% elsif post.citation and post.paperurl %}
-      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a></p>
-    {% elsif post.citation and post.slidesurl %}
-      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.slidesurl }}">Prototype</a></p>
+      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Read Full Paper</a></p>
+    {% elsif post.citation and post.prototypeurl %}
+      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.prototypeurl }}">See Prototype</a></p>
     {% elsif post.citation %}
       <p>Recommended citation: {{ post.citation }}</p>
     {% elsif post.paperurl %}
-      <p><a href=" {{ post.paperurl }} ">Download Paper</a></p>
-    {% elsif post.slidesurl %}
-      <p>Check Out <a href="{{ post.slidesurl }}">Prototype</a></p></p>
+      <p><a href=" {{ post.paperurl }} ">Read Full Paper</a></p>
+    {% elsif post.prototypeurl %}
+      <p>Check Out <a href="{{ post.prototypeurl }}">See Prototype</a></p></p>
     {% endif %}
 
   </article>
