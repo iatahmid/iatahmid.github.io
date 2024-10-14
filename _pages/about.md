@@ -13,6 +13,16 @@ I'm passionate about Augmented Reality, Virtual Reality, and understanding how h
 
 However, although the sci-fi movie-style scenario sounds exciting and promising, the unfamiliarity of the technology can be a real barrier. That's where I come in. I'm excited about investigating the possibilities of interactions in immersive space and studying human behaviors while completing tasks in AR/VR. My ultimate goal is to design user interfaces and interaction techniques that can potentially increase productivity while providing ease of use in completing real-world tasks in AR/VR. Because after all, I truly believe that AR headsets will replace the smartphones in our pockets in the not-so-distant future. Prove me wrong? Please feel free to [reach out to me](mailto:iatahmid@vt.edu) with any questions or collaboration ideas.
 
+<h2>Latest News</h2>
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <strong>{{ post.date | date: "%B %Y" }}:</strong> <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+
 ## Recent News
 
 * Running a user study on the gaze-assisted recommendation for sensemaking tasks
