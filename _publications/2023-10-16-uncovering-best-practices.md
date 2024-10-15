@@ -1,7 +1,7 @@
 ---
 title: "Uncovering Best Practices in Immersive Space to Think"
 collection: publications
-category: conferences
+category: ist
 permalink: /publication/2023-10-16-uncovering-best-practices
 excerpt: 'As immersive analytics research becomes more popular, user studies have been aimed at evaluating the strategies and layouts of users’ sensemaking during a single focused analysis task. However, approaches to sensemaking strategies and layouts are likely to change as users become more familiar/proficient with the immersive analytics tool. In our work, we build upon an existing immersive analytics approach-Immersive Space to Think-to understand how schemas and strategies for sensemaking change across multiple analysis tasks. We conducted a user study with 14 participants who completed three different sensemaking tasks during three separate sessions. We found significant differences in the use of space and strategies for sensemaking across these sessions and correlations between participants’ strategies and the quality of their sensemaking. Using these findings, we propose guidelines for effective analysis approaches within immersive analytics systems for document-based sensemaking.'
 date: 2023-10-16

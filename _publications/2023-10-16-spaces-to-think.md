@@ -1,7 +1,7 @@
 ---
 title: "Spaces to Think: A Comparison of Small, Large, and Immersive Displays for the Sensemaking Process"
 collection: publications
-category: conferences
+category: ist
 permalink: /publication/2023-10-16-spaces-to-think
 excerpt: >
   Analysts need to process large amounts of data in order to extract concepts, themes, and plans of action based upon their findings. Different display technologies offer varying levels of space and interaction methods that change the way users can process data using them. In a comparative study, we investigated how the use of single traditional monitor, a large, high-resolution two-dimensional monitor, and immersive three-dimensional space using the Immersive Space to Think approach impact the sensemaking process. We found that user satisfaction grows and frustration decreases as available space increases. We observed specific strategies users employ in the various conditions to assist with the processing of datasets. We also found an increased usage of spatial memory as space increased, which increases performance in artifact position recall tasks. In future systems supporting sensemaking, we recommend using display technologies that provide users with large amounts of space to organize information and analysis artifacts.
