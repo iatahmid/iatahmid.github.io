@@ -47,7 +47,7 @@
         {% endif %}
 
     {% if post.award %}
-      <p><img src="/images/award.png" alt="Award Badge" style="width: 20px; height: 20px;"> {{ post.award}} </p>
+      <p> {{ post.award}} </p>
 
     {% if post.excerpt and site.read_more != 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
