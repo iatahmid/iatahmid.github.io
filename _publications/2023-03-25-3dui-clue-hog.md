@@ -1,5 +1,5 @@
 ---
-title: "Clean the ocean: An immersive vr experience proposing new modifications to go-go and wim techniques"
+title: "CLUE HOG: An Immersive Competitive Lock-Unlock Experience using Hook On Go-Go Technique for Authentication in the Metaverse"
 collection: publications
 category: contest
 permalink: /publication/2023-03-25-3dui-clue-hog
