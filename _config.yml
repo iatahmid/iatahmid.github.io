@@ -77,12 +77,16 @@ author:
 publication_category:
   books:
     title: 'Books'
+  semantic:
+    title: 'Rich Semantic Interaction'
+  ist:
+    title: 'Immersive Space to Think'
   manuscripts:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
-  ist:
-    title: 'Rich Semantic Interaction in Immersive Space to Think'
+  contest:
+    title: 'Contest Demos'
   
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
