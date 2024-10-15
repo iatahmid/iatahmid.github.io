@@ -8,7 +8,7 @@ date: 2022-10-17
 venue: '2022 IEEE International Symposium on Mixed and Augmented Reality (ISMAR)'
 slidesurl: ''
 prototypeurl: 'https://youtu.be/G1B1lrLuMe0?si=2feSYtgX1aAVGO9A'
-paperurl: 'https://ieeexplore.ieee.org/iel7/9994794/9994855/09995165.pdf'
+paperurl: 'https://iatahmid.github.io/files/ismar22-ist-clustering.pdf'
 citation: 'Tahmid, I. A., Lisle, L., Davidson, K., North, C., & Bowman, D. A. (2022, October). <em>Evaluating the benefits of explicit and semi-automated clusters for immersive sensemaking</em>. In 2022 IEEE International Symposium on Mixed and Augmented Reality (ISMAR) (pp. 479-488). IEEE.'
 ---
 
