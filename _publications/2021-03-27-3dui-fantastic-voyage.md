@@ -2,6 +2,7 @@
 title: "Fantastic voyage 2021: Using interactive VR storytelling to explain targeted COVID-19 vaccine delivery to antigen-presenting cells"
 collection: publications
 category: contest
+award: "Winner of the 3DUI Contest 2021"
 permalink: /publication/2021-03-27-3dui-fantastic-voyage
 excerpt: 'Science storytelling is an effective way to turn abstract scientific concepts into easy-to-understand narratives. Science storytelling in immersive virtual reality (VR) can further optimize learning by leveraging rich interactivity in a virtual environment and creating an engaging learning-by-doing experience. In the current context of the COVID-19 pandemic, we propose a solution to use interactive storytelling in immersive VR to promote science education for the general public on the topic of COVID-19 vaccination. The educational VR storytelling experience we have developed uses sci-fi storytelling, adventure and VR gameplay to illustrate how COVID-19 vaccines work. After playing the experience, users will understand how the immune system in the human body reacts to a COVID-19 vaccine so that it is prepared for a future infection from the real virus.'
 date: 2021-03-27
