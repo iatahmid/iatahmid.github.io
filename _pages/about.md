@@ -22,9 +22,9 @@ However, although the sci-fi movie-style scenario sounds exciting and promising,
   {% endfor %}
 </ul>
 
-
+<!-- 
 ## Recent News
 
 * Running a user study on the gaze-assisted recommendation for sensemaking tasks
 * Continues as a Graduate Research Assistant with Doug Bowman
-* Helped Cranwell International Center with the orientation welcome week 
+* Helped Cranwell International Center with the orientation welcome week  -->
