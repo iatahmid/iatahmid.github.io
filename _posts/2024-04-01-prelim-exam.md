@@ -1,5 +1,5 @@
 ---
-title: "I'm Ph.D. Candidate Now!"
+title: "I'm a Ph.D. Candidate Now!"
 date: 2024-04-01
 permalink: /posts/2024/04/prelim-exam/
 tags:
