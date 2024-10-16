@@ -18,8 +18,8 @@ Two or more people can join the immersive room to collaborate and ideate on diff
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rvap4Vc_Xyk?si=zJhKIQw6nqDoi6Xl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<br>
-<br>
+<br><br><br>
+
 Collaborative Inspection of Additive Manufacturing Defects
 ======
 Two or more inspectors can observe and identify defects in additive manufacturing models by sychronous and asynchronous collaboration.
