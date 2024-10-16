@@ -223,7 +223,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  prototype:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -272,10 +272,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _prototype
   - scope:
       path: ""
-      type: portfolio
+      type: prototype
     values:
       layout: single
       author_profile: true
