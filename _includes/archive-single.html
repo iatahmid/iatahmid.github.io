@@ -48,9 +48,9 @@
 
     {% if post.award %}
       <img src="/images/award.png" alt="Award Icon" style="width: 20px; height: 20px; margin-left: 5px;">
-      <p> {{ post.award}} </p>
+      <p style="display: inline;"> {{ post.award }} </p>
     {% endif %}
-
+      
     {% if post.excerpt and site.read_more != 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
     {% elsif post.excerpt and site.read_more == 'enabled' %}
