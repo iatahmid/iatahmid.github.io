@@ -1,7 +1,7 @@
 ---
 title: "Collaboratively Inspecting Additive Manufacturing Defects in Immersive Space"
 excerpt: "Two or more inspectors can observe and identify defects in additive manufacturing models by sychronous and asynchronous collaboration."
-collection: prototype
+collection: prototypes
 ---
 
 Two or more inspectors can observe and identify defects in additive manufacturing models by sychronous and asynchronous collaboration.

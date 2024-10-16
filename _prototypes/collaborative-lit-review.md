@@ -1,7 +1,7 @@
 ---
 title: "Collaborative Immersive Space to Think"
 excerpt: "Two or more inspectors can join the immersive room to collaborate and ideate on different topics."
-collection: prototype
+collection: prototypes
 ---
 
 Two or more inspectors can join the immersive room to collaborate and ideate on different topics.
