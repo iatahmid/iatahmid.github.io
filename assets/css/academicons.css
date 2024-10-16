@@ -569,3 +569,10 @@ border-radius: .1em;
 .ai-inverse {
   color: #fff;
 }
+.badge {
+  background-color: #4caf50;
+  color: white;
+  padding: 0.2em 0.4em;
+  border-radius: 0.2em;
+  font-size: 0.8em;
+}
