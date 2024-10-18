@@ -2,6 +2,7 @@
 title: "Clean the ocean: An immersive vr experience proposing new modifications to go-go and wim techniques"
 collection: publications
 category: contest
+award: "Winner of the 3DUI Contest 2022"
 permalink: /publication/2022-03-12-3dui-clean-the-ocean
 excerpt: "In this paper we present our solution to the 2022 3DUI Contest challenge. We aim to provide an immersive VR experience to increase player's awareness of trash pollution in the ocean while improving the current interaction techniques in virtual environments. To achieve these objectives, we adapted two classic interaction techniques, Go-Go and World in Miniature (WiM), to provide an engaging minigame in which the user collects the trash in the ocean. To improve the precision and address occlusion issues in the traditional Go-Go technique we propose ReX Go-Go. We also propose an adaptation to WiM, referred to as Rabbit-Out-of-the-Hat to allow an exocentric interaction for easier object retrieval interaction."
 date: 2022-03-12
