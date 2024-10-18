@@ -7,7 +7,7 @@ tags:
   - service
 ---
 
-The Aspire! Awards honor students, faculty, and staff who embody the Student Affairs' Aspirations for Student Learning. Each celebration, held in October, December, February, March, and May, will recognize five students, one for each Aspiration, and one faculty or staff member. This year, I am humbled to share that I will receive the award for <b>Self-Understanding and Integrity</b> for my work on celebrating cultural richness with International Mother Language Day, innovating new ways to make international students' lives easier in the early days, and supporting the community of Banggladeshi students in Virginia Tech with my skills, experiences, and leadership.
+This year, I am humbled to share that I will receive the award for <b>Self-Understanding and Integrity</b> for my work on celebrating cultural richness with International Mother Language Day, innovating new ways to make international students' lives easier in the early days, and supporting the community of Banggladeshi students in Virginia Tech with my skills, experiences, and leadership. The Aspire! Awards honor students, faculty, and staff who embody the Student Affairs' Aspirations for Student Learning. Each celebration, held in October, December, February, March, and May, will recognize five students, one for each Aspiration, and one faculty or staff member. 
 
 The schedule for this year is as follows:
 
