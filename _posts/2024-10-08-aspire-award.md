@@ -1,5 +1,5 @@
 ---
-title: 'ASPIRE! Award for Self-Understanding and Integrity'
+title: 'Aspire! Award for Self-Understanding and Integrity'
 date: 2024-10-08
 permalink: /post/2024/10/aspire-award/
 tags:
