@@ -55,7 +55,6 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "iatahmid.taha"
   lastfm           : # Username
   linkedin         : "iatahmid"
   mastodon         : # URL
@@ -70,8 +69,9 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : "UCsEqYOrVMRwAg0HV2K7ARvw" # Channel ID
+  youtube          : "@ibrahimtahmid3783" # Username
   zhihu            : # URL
+  instagram        : "iatahmid.taha"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
