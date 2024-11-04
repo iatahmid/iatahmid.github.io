@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Checkout my CliftonStrengths results here.](/files/CliftonStrengths_iatahmid.pdf)
+
 Education
 ======
 * Ph.D in Human-Computer Interaction focusing on Mixed Reality, 2025 (expected)
