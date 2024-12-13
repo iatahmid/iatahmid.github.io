@@ -13,4 +13,6 @@ The advancements in AI have raised intriguing possibilities for personalized exp
 
 The answer is a resounding yes!
 
-However, the key to such human-AI collaboration lies in user acceptance. Our research underscores that regardless of AI sophistication, trust and effectiveness hinge on context. Explainability and transparency are pivotal; users must comprehend not just the AI's actions, but also the rationale behind its recommendations. Without these elements, even the most intelligent systems may fall short. So, what should we keep in mind for AI-mediated sensemaking in the immersive space? Read our paper to know more! (link to be added later)
+However, the key to such human-AI collaboration lies in user acceptance. Our research underscores that regardless of AI sophistication, trust and effectiveness hinge on context. Explainability and transparency are pivotal; users must comprehend not just the AI's actions, but also the rationale behind its recommendations. Without these elements, even the most intelligent systems may fall short. 
+
+So, what should we keep in mind for AI-mediated sensemaking in the immersive space? Read our paper to know more! (link to be added later)
