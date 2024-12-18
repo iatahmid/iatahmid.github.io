@@ -16,11 +16,7 @@ The results of our study highlight the need for explainable AI in human-AI colla
 Based on our findings, we offer a set of guidelines for designing gaze-driven recommendation cues in an immersive environment.'
 date: 2025-03-24
 venue: '30th Annual ACM Conference on Intelligent User Interfaces (IUI) 2025'
-teaser: '/images/teasers/EyeSTRecommendations_teaser.png'
-slidesurl: ''
-prototypeurl: ''
-paperurl: ''
-citation: ''
+teaser: '/images/teasers/eyest_recommendations_teaser.jpg'
 ---
 
 The advancements in AI have raised intriguing possibilities for personalized experiences. 
