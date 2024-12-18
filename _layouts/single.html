@@ -75,16 +75,21 @@ layout: default
       <section class="page__content" itemprop="text">
         {{ content }}
 
-        {% if page.citation and page.paperurl and page.prototypeurl %}
-          <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br /><a href="{{ page.paperurl }}">Read Full Paper</a> | <a href="{{ page.prototypeurl }}">See Prototype</a></p>
-        {% elsif page.citation and page.paperurl %}
-          <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br /><a href="{{ page.paperurl }}">Read Full Paper</a></p>
-        {% elsif page.citation and page.prototypeurl %}
-          <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br /><a href="{{ page.prototypeurl }}">See Prototype</a></p>
-        {% elsif page.citation %}
-          <p style="font-size: smaller">Recommended citation: {{ page.citation }}</p>
-        {% elsif page.prototypeurl %}
-          <p style="font-size: smaller"><a href="{{ page.prototypeurl }}">See Prototype</a></p>
+        {% if page.citation and page.citation != '' %}
+          <p>Recommended citation: {{ page.citation }}<br />
+        {% endif %}
+        
+        {% if page.paperurl and page.paperurl != '' %}
+          <a href="{{ page.paperurl }}">Read Full Paper</a>
+        {% endif %}
+        
+        {% if page.prototypeurl and page.prototypeurl != '' %}
+          {% if page.paperurl and page.paperurl != '' %} | {% endif %}
+          <a href="{{ page.prototypeurl }}">See Prototype</a>
+        {% endif %}
+        
+        {% if page.citation or page.paperurl or page.prototypeurl %}
+          </p>
         {% endif %}
 
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
