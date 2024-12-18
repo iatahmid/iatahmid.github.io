@@ -61,22 +61,23 @@
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
     
+    {% if post.citation and post.citation != '' %}
+      <p>Recommended citation: {{ post.citation }}<br />
+    {% endif %}
+    
+    {% if post.paperurl and post.paperurl != '' %}
+      <a href="{{ post.paperurl }}">Read Full Paper</a>
+    {% endif %}
+    
+    {% if post.prototypeurl and post.prototypeurl != '' %}
+      {% if post.paperurl and post.paperurl != '' %} | {% endif %}
+      <a href="{{ post.prototypeurl }}">See Prototype</a>
+    {% endif %}
+    
     {% if post.citation or post.paperurl or post.prototypeurl %}
-      <p>
-        {% if post.citation %}
-          Recommended citation: {{ post.citation }}<br />
-        {% endif %}
-        {% if post.paperurl %}
-          <a href="{{ post.paperurl }}">Read Full Paper</a>
-          {% if post.prototypeurl %}
-            | 
-          {% endif %}
-        {% endif %}
-        {% if post.prototypeurl %}
-          <a href="{{ post.prototypeurl }}">See Prototype</a>
-        {% endif %}
       </p>
     {% endif %}
+
 
 
   </article>
