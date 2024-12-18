@@ -1,5 +1,5 @@
 ---
-title: "Evaluating the Feasibility of Predicting Information Relevance During Sensemaking with Eye Gaze Data"
+title: "Enhancing Immersive Sensemaking with Gaze-Driven Smart Recommendations"
 collection: publications
 category: semantic
 permalink: /publication/2025-03-24-eyest-recommendations
