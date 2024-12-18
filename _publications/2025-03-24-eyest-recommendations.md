@@ -9,7 +9,7 @@ Immersive technologies such as mixed reality offer a potential solution by provi
 However, the difficulty of processing, filtering relevant information, and synthesizing insights remains.
 We proposed using eye-tracking data from mixed reality head-worn displays to derive the analyst's perceived interest in documents and words, and convey that part of the mental model to the analyst.
 The global interest of the documents is reflected in their color, and their order on the list, while the local interest of the documents is used to generate focused recommendations for a document.
-To evaluate these recommendation cues, we conducted a user study with two conditions: a gaze-aware system, EyeST, and a ``Freestyle'' system without gaze-based visual cues. 
+To evaluate these recommendation cues, we conducted a user study with two conditions; a gaze-aware system, EyeST, and a Freestyle system without gaze-based visual cues. 
 Our findings reveal that the EyeST helped analysts stay on track by reading more essential information while avoiding distractions. 
 However, this came at the cost of reduced focused attention and perceived system performance.
 The results of our study highlight the need for explainable AI in human-AI collaborative sensemaking to build user trust and encourage the integration of AI outputs into the immersive sensemaking process. 
