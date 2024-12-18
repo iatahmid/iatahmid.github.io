@@ -3,7 +3,17 @@ title: "Evaluating the Feasibility of Predicting Information Relevance During Se
 collection: publications
 category: semantic
 permalink: /publication/2025-03-24-eyest-recommendations
-excerpt: 'Eye gaze patterns vary based on reading purpose and complexity, and can provide insights into a reader’s perception of the content. We hypothesize that during a complex sensemaking task with many text-based documents, we will be able to use eye-tracking data to predict the importance of documents and words, which could be the basis for intelligent suggestions made by the system to an analyst. We introduce a novel eye-gaze metric called ‘GazeScore’ that predicts an analyst’s perception of the relevance of each document and word when they perform a sensemaking task. We conducted a user study to assess the effectiveness of this metric and found strong evidence that documents and words with high GazeScores are perceived as more relevant, while those with low GazeScores were considered less relevant. We explore potential real-time applications of this metric to facilitate immersive sensemaking tasks by offering relevant suggestions.'
+excerpt: 'Sensemaking is a complex task that places a heavy cognitive demand on individuals. 
+With the recent surge in data availability, making sense of vast amounts of information has become a significant challenge for many professionals, such as intelligence analysts. 
+Immersive technologies such as mixed reality offer a potential solution by providing virtually unlimited space to organize data.
+However, the difficulty of processing, filtering relevant information, and synthesizing insights remains.
+We proposed using eye-tracking data from mixed reality head-worn displays to derive the analyst's perceived interest in documents and words, and convey that part of the mental model to the analyst.
+The global interest of the documents is reflected in their color, and their order on the list, while the local interest of the documents is used to generate focused recommendations for a document.
+To evaluate these recommendation cues, we conducted a user study with two conditions-- a gaze-aware system, EyeST, and a Freestyle system without gaze-based visual cues. 
+Our findings reveal that the EyeST helped analysts stay on track by reading more essential information while avoiding distractions. 
+However, this came at the cost of reduced focused attention and perceived system performance.
+The results of our study highlight the need for explainable AI in human-AI collaborative sensemaking to build user trust and encourage the integration of AI outputs into the immersive sensemaking process. 
+Based on our findings, we offer a set of guidelines for designing gaze-driven recommendation cues in an immersive environment.'
 date: 2025-03-24
 venue: ''
 teaser: '/images/teasers/eyest_recommendations_teaser.jpg'
