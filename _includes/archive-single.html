@@ -66,19 +66,23 @@
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
     
-    {% if post.citation and post.paperurl and post.prototypeurl %}
-      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Read Full Paper</a> | <a href="{{ post.prototypeurl }}">See Prototype</a></p>
-    {% elsif post.citation and post.paperurl %}
-      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Read Full Paper</a></p>
-    {% elsif post.citation and post.prototypeurl %}
-      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.prototypeurl }}">See Prototype</a></p>
-    {% elsif post.citation %}
-      <p>Recommended citation: {{ post.citation }}</p>
-    {% elsif post.paperurl %}
-      <p><a href=" {{ post.paperurl }} ">Read Full Paper</a></p>
-    {% elsif post.prototypeurl %}
-      <p>Check Out <a href="{{ post.prototypeurl }}">See Prototype</a></p></p>
+    {% if post.citation or post.paperurl or post.prototypeurl %}
+      <p>
+        {% if post.citation %}
+          Recommended citation: {{ post.citation }}<br />
+        {% endif %}
+        {% if post.paperurl %}
+          <a href="{{ post.paperurl }}">Read Full Paper</a>
+          {% if post.prototypeurl %}
+            | 
+          {% endif %}
+        {% endif %}
+        {% if post.prototypeurl %}
+          <a href="{{ post.prototypeurl }}">See Prototype</a>
+        {% endif %}
+      </p>
     {% endif %}
+
 
   </article>
 </div>
