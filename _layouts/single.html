@@ -41,15 +41,6 @@ layout: default
         
         {% if page.collection == 'teaching' %}
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
-        {% elsif post.venue and post.date %}
-            {% assign post_date = post.date | default: "1900-01-01" | date: "%Y-%m-%d" %}
-            {% assign current_date = 'now' | date: "%Y-%m-%d" %}
-          
-            {% if post_date > current_date %}
-              <p>Forthcoming in <i>{{ post.venue }}</i>, {{ post.date | date: "%B, %Y" }}</p>
-            {% else %}
-              <p>Published in <i>{{ post.venue }}</i>, {{ post.date | date: "%B, %Y" }}</p>
-            {% endif %}
          {% elsif page.date %}   
             {% assign page_date = page.date | default: "1900-01-01" | date: "%Y-%m-%d" %}
             {% assign current_date = 'now' | date: "%Y-%m-%d" %}
@@ -67,7 +58,6 @@ layout: default
                 {{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}
               </time>
             </p>
-          
           {% elsif page.venue %}   
             <p class="page__venue">
               <strong>
