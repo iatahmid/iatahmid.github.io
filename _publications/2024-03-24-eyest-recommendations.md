@@ -2,7 +2,7 @@
 title: "Evaluating the Feasibility of Predicting Information Relevance During Sensemaking with Eye Gaze Data"
 collection: publications
 category: semantic
-permalink: /publication/2025-03-24-eyest-recommendations
+permalink: /publication/2024-03-24-eyest-recommendations
 excerpt: 'Sensemaking is a complex task that places a heavy cognitive demand on individuals. With the recent surge in data availability,
 making sense of vast amounts of information has become a significant challenge for many professionals, such as intelligence analysts.
 Immersive technologies such as mixed reality offer a potential solution by providing virtually unlimited space to organize data. However,
