@@ -58,14 +58,15 @@ layout: default
                 {{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}
               </time>
             </p>
-          {% elsif page.venue %}   
-            <p class="page__venue">
-              <strong>
-                <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> 
-                Venue:
-              </strong> 
-              {{ page.venue }}
-            </p>        
+            {% if page.venue %}   
+              <p class="page__venue">
+                <strong>
+                  <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> 
+                  Venue:
+                </strong> 
+                {{ page.venue }}
+              </p>        
+            {% endif %}    
         {% endif %}    
           
         </header>
