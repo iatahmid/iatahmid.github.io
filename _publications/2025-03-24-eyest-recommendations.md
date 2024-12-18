@@ -2,7 +2,7 @@
 title: "Evaluating the Feasibility of Predicting Information Relevance During Sensemaking with Eye Gaze Data"
 collection: publications
 category: semantic
-permalink: /publication/2024-03-24-eyest-recommendations
+permalink: /publication/2025-03-24-eyest-recommendations
 excerpt: 'Sensemaking is a complex task that places a heavy cognitive demand on individuals. With the recent surge in data availability,
 making sense of vast amounts of information has become a significant challenge for many professionals, such as intelligence analysts.
 Immersive technologies such as mixed reality offer a potential solution by providing virtually unlimited space to organize data. However,
@@ -16,7 +16,7 @@ However, this came at the cost of reduced focused attention and perceived system
 need for explainable AI in human-AI collaborative sensemaking to build user trust and encourage the integration of AI outputs into
 the immersive sensemaking process. Based on our findings, we offer a set of guidelines for designing gaze-driven recommendation
 cues in an immersive environment.'
-date: 2024-03-24
+date: 2025-03-24
 venue: '30th Annual ACM Conference on Intelligent User Interface (IUI)'
 teaser: '/images/teasers/eyest_recommendations_teaser.jpg'
 slidesurl: ''
