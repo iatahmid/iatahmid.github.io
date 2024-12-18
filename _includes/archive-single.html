@@ -45,7 +45,7 @@
             {% assign current_date = 'now' | date: "%Y-%m-%d" %}
           
             {% if post_date > current_date %}
-              <p>Forthcoming in <i>{{ post.venue }}</i></p>
+              <p>Forthcoming in <i>{{ post.venue }}</i>, {{ post.date | date: "%M, %Y" }}</p>
             {% else %}
               <p>Published in <i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}</p>
             {% endif %}
