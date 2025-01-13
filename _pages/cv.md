@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+[Download my resume from here](/files/Resume_IbrahimTahmid.pdf)
 [Checkout my CliftonStrengths results here.](/files/CliftonStrengths_iatahmid.pdf)
 
 Education

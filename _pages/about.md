@@ -13,20 +13,18 @@ As a graduate student working at the intersection of HCI, XR, and AI, I have gai
 
 Over the years, I've taken on impactful leadership roles that reflect my dedication to fostering creativity and community. From organizing international exhibitions to community-building events celebrating cross-cultural differences, my goal has always been to create a safe, creative, and inspiring space for people around me. My dedication and perseverance have been recognized with accolades such as the [Aspire! Award](https://experience.vt.edu/2017/Ibrahim_Tahmid.html), affirming my commitment to excellence and meaningful impact.
 
-I am currently open to job opportunities where I can apply my research expertise in human-computer interaction, extended reality, and AI-driven systems. If you know of roles where I can contribute to innovative projects that bridge technology and user-centric design, I’d love to hear from you—[feel free to reach out](mailto:iatahmid@vt.edu)!
+I am currently open to job opportunities where I can apply my research expertise in human-computer interaction, extended reality, and AI-driven systems. If you know of roles where I can contribute to innovative projects that bridge technology and user-centric design, I’d love to hear from you—[let's connect!](mailto:iatahmid@vt.edu)!
 
 Education
 ======
-* Ph.D in Human-Computer Interaction focusing on Mixed Reality, 2025 (expected)
+* Ph.D in Computer Science, Virginia Tech, 2025 (expected)
+  * Specialized in: Human-Computer Interaction, Extended Reality (AR/VR/MR/XR), 
+  * Advisor: [Dr. Doug Bowman](https://wordpress.cs.vt.edu/3digroup/author/dbowman/)
   * Dissertation: <b>Immersive Sensemaking with Gaze-Driven Rich Semantic Interaction</b>
-  * Keywords: Eye tracking, Human-AI Collaboration, Sensemaking, Semantic interaction, Immersive analytics
+  * Keywords: Eye Tracking, Human-AI Collaboration, Sensemaking, Semantic Interaction, Immersive Analytics
+  * Selected Projects: [Eye-Enhanced Immersive Space to Think (EyeST)](https://iatahmid.github.io/publication/2025-03-24-eyest-recommendations)
 * B.Sc. in Computer Science, Bangladesh University of Engineering and Technology, 2017
-
-Work
-======
-* Graduate Research Assistant, [3D Interaction Group](https://wordpress.cs.vt.edu/3digroup/), Virginia Tech
-  * Supervisor: [Dr. Doug Bowman](https://wordpress.cs.vt.edu/3digroup/author/dbowman/)
-* Computing Scholar Intern, Lawrence Livermore National Lab, California
+* [Download my resume for more details](/files/Resume_IbrahimTahmid.pdf)
 
 Professional Service
 ======
