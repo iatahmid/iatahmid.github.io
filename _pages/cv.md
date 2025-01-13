@@ -9,23 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
-[Download my resume from here](/files/Resume_IbrahimTahmid.pdf)
-[Checkout my CliftonStrengths results here.](/files/CliftonStrengths_iatahmid.pdf)
+Download Links
+======
+* [One page Resume](/files/Resume_IbrahimTahmid.pdf)
+* [CliftonStrengths Results ](/files/CliftonStrengths_iatahmid.pdf)
 
 Education
 ======
 * Ph.D in Human-Computer Interaction focusing on Mixed Reality, 2025 (expected)
-  * Dissertation: <b>Immersive Sensemaking with Gaze-Driven Rich Semantic Interaction</b>
-  * Keywords: Eye tracking, Sensemaking, Semantic interaction, Immersive analytics
 * B.S. in Bangladesh University of Engineering and Technology, 2017
 
 Work experience
 ======
-* Graduate Research Assistant, Computer Science, Virginia Tech
-  * Supervisor: Doug Bowman
-* Computing Scholar Intern, Lawrence Livermore National Lab, California
-  * I worked on detecting and visualizing defects in digital twins of additive manufacturing models with occlusion management for synchronous and asynchronous collaboration.
-  
+* Graduate Research Assistant, Computer Science, Virginia Tech (2019-)
+* Computing Scholar Intern, Lawrence Livermore National Lab, California (Summer, 2022)
+* Full-Stack Software Developer, Reve Systems (October 2017 - July 2019)
+
 Professional Service
 ======
 * **Poster Committee Member**; IEEE VR 2025
@@ -55,9 +54,8 @@ Skills
   * Unreal
   * C#
   * Eye tracking
-  * Developing for Mixed Reality headsets: Meta Quest Pro, Varjo XR-3
-  * Developing for Optical Augmented Reality headsets: HoloLens 2, Magic Leap 2
-* Semantic Interaction Research
+  * Developing for XR headsets: Meta Quest (2, 3, Pro), Varjo XR-3, HoloLens 2, Magic Leap 2, HTC Vive, 
+* Human-AI Collaboration Research
   * Transformer-based similarity models
   * User-centered AI recommendations
   * Text summarization 
@@ -67,7 +65,6 @@ Skills
   * UX design and evaluation
   * User Studies
   * Statistical analysis
-
 
 Publications
 ======
