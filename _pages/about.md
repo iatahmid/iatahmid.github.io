@@ -15,15 +15,15 @@ Over the years, I've taken on impactful leadership roles that reflect my dedicat
 
 **I am currently open to job opportunities in industry** where I can apply my research expertise in human-computer interaction, extended reality, and AI-driven systems. If you know of roles where I can contribute to innovative projects that bridge technology and user-centric design, I’d love to hear from you—[let's connect!](https://www.linkedin.com/in/iatahmid/)!
 
-Education
+Current Position
 ======
+* **Looking for industry jobs with research opportunities**
 * Ph.D in Computer Science, Virginia Tech, 2025 (expected)
   * Specialized in: Human-Computer Interaction, Extended Reality (AR/VR/MR/XR), 
   * Advisor: [Dr. Doug Bowman](https://wordpress.cs.vt.edu/3digroup/author/dbowman/)
   * Dissertation: <b>Immersive Sensemaking with Gaze-Driven Rich Semantic Interaction</b>
   * Keywords: Eye Tracking, Human-AI Collaboration, Sensemaking, Semantic Interaction, Immersive Analytics
   * Selected Projects: [Eye-Enhanced Immersive Space to Think (EyeST)](https://iatahmid.github.io/publication/2025-03-24-eyest-recommendations)
-* B.Sc. in Computer Science, Bangladesh University of Engineering and Technology, 2017
 * [Download my resume for more details](/files/Resume_IbrahimTahmid.pdf)
 
 Professional Service
