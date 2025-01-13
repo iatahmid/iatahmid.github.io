@@ -15,6 +15,32 @@ Over the years, I've taken on impactful leadership roles that reflect my dedicat
 
 I am currently open to job opportunities where I can apply my research expertise in human-computer interaction, extended reality, and AI-driven systems. If you know of roles where I can contribute to innovative projects that bridge technology and user-centric design, I’d love to hear from you—[feel free to reach out](mailto:iatahmid@vt.edu)!
 
+Education
+======
+* Ph.D in Human-Computer Interaction focusing on Mixed Reality, 2025 (expected)
+  * Dissertation: <b>Immersive Sensemaking with Gaze-Driven Rich Semantic Interaction</b>
+  * Keywords: Eye tracking, Human-AI Collaboration, Sensemaking, Semantic interaction, Immersive analytics
+* B.Sc. in Computer Science, Bangladesh University of Engineering and Technology, 2017
+
+Work
+======
+* Graduate Research Assistant, [3D Interaction Group](https://wordpress.cs.vt.edu/3digroup/), Virginia Tech
+  * Supervisor: [Dr. Doug Bowman](https://wordpress.cs.vt.edu/3digroup/author/dbowman/)
+* Computing Scholar Intern, Lawrence Livermore National Lab, California
+
+Professional Service
+======
+* **Poster Committee Member**; IEEE VR 2025
+* **Technical Committee Member**; AIVR 2025
+* **Reviewer**; IEEE VR (2022, 2025), ISMAR (2023, 2024), IEEE VIS (2023, 2024), CHI (2022, 2024, 2025), IUI (2025)
+
+<!-- ## Professional Calendar
+
+* Running a user study on the gaze-assisted recommendation for sensemaking tasks
+* Continues as a Graduate Research Assistant with Doug Bowman
+* Helped Cranwell International Center with the orientation welcome week  -->
+
+
 <h2>Latest Posts</h2>
 <ul>
   {% for post in site.posts %}
@@ -23,10 +49,3 @@ I am currently open to job opportunities where I can apply my research expertise
     </li>
   {% endfor %}
 </ul>
-
-<!-- 
-## Recent News
-
-* Running a user study on the gaze-assisted recommendation for sensemaking tasks
-* Continues as a Graduate Research Assistant with Doug Bowman
-* Helped Cranwell International Center with the orientation welcome week  -->

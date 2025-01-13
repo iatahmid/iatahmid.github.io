@@ -14,7 +14,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Human-Computer Interaction focusing on Mixed Reality, 2025 (expected)
-  * Dissertation: <b>Immersive Sensemaking with Rich Semantic Interaction</b>
+  * Dissertation: <b>Immersive Sensemaking with Gaze-Driven Rich Semantic Interaction</b>
   * Keywords: Eye tracking, Sensemaking, Semantic interaction, Immersive analytics
 * B.S. in Bangladesh University of Engineering and Technology, 2017
 
@@ -25,6 +25,28 @@ Work experience
 * Computing Scholar Intern, Lawrence Livermore National Lab, California
   * I worked on detecting and visualizing defects in digital twins of additive manufacturing models with occlusion management for synchronous and asynchronous collaboration.
   
+Professional Service
+======
+* **Poster Committee Member**; IEEE VR 2025
+* **Technical Committee Member**; AIVR 2025
+* **Reviewer**; IEEE VR (2022, 2025), ISMAR (2023, 2024), IEEE VIS (2023, 2024), CHI (2022, 2024, 2025), IUI (2025)
+
+Awards and Honors
+======
+* Recipient of ASPIRE! Award 2024 for Self-Understanding and Integrity, 2024
+* Recipient of Pratt Fellowship for the academic year 2024-25
+* Recipient of the 3DUI Contest Winner 2021, 2022
+* Awarded for organizing the Most Outstanding Program of the year 2022
+* Runners Up in DIU Hackathon 2017
+* Runners Up in Brac Hackathon 2017
+* Runners Up in National Math Olympiad, 2010
+
+Community Service and Leadership
+======
+* **Ambassador**; Cranwell International Center at Virginia Tech, 2023-24
+* **Vice President**; Association for Bangladeshi Students at Virginia Tech, 2022-23
+* **President**; BUET Photographic Society, 2017
+
 Skills
 ======
 * Mixed Reality Research
@@ -45,6 +67,7 @@ Skills
   * User Studies
   * Statistical analysis
 
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -63,15 +86,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
   
-Awards
-======
-* Recipient of Pratt Fellowship for the academic year 2024-25
-* Recipient of the 3DUI Contest Winner 2021, 2022
-
-Service and leadership
-======
-* Recipient of ASPIRE! Award 2024 for Self-Understanding and Integrity, 2024
-* Awarded for organizing the Most Outstanding Program of the year 2022
-* Student Ambassador for Cranwell International Center at Virginia Tech, 2023-24
-* Vice President for Association for Bangladeshi Students at Virginia Tech, 2022-23
-* President of the BUET Photographic Society, 2017
