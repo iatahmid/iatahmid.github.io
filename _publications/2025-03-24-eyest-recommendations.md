@@ -22,7 +22,7 @@ teaser: '/images/teasers/eyest_recommendations_teaser.jpg'
 slidesurl: ''
 prototypeurl: ''
 paperurl: ''
-citation: ''
+citation: 'Tahmid, I. A., North, C., Davidson, K., Whitley, K., & Bowman, D. A. (2025, March). <em>Enhancing Immersive Sensemaking with Gaze-Driven Smart Recommendations</em>. In 2025 ACM Intelligent User Intefaces (IUI). ACM.'
 ---
 
 The advancements in AI have raised intriguing possibilities for personalized experiences. 
