@@ -1,16 +1,4 @@
-- image: /images/designs/chess.png
-  alt: ""
-  caption: ""
-
-- image: /images/designs/MortalKombat.png
-  alt: ""
-  caption: ""
-
 - image: /images/designs/colors_of_bangladesh.png
-  alt: ""
-  caption: ""
-
-- image: /images/designs/FIFA.png
   alt: ""
   caption: ""
 
@@ -18,14 +6,26 @@
   alt: ""
   caption: ""
 
-- image: /images/designs/IB.png
+- image: /images/designs/MortalKombat.png
   alt: ""
   caption: ""
 
-- image: /images/designs/TableTennis.png
+- image: /images/designs/chess.png
   alt: ""
   caption: ""
 
 - image: /images/designs/ludo.png
+  alt: ""
+  caption: ""
+
+- image: /images/designs/FIFA.png
+  alt: ""
+  caption: ""
+
+# - image: /images/designs/IB.png
+#   alt: ""
+#   caption: ""
+
+- image: /images/designs/TableTennis.png
   alt: ""
   caption: ""

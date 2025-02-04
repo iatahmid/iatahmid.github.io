@@ -1,13 +1,5 @@
-- image: /images/photography/arches.jpeg
-  alt: "Arches National Park"
-  caption: ""
-
 - image: /images/photography/aurnil.jpeg
   alt: "Aurnil and Khushi"
-  caption: ""
-
-- image: /images/photography/circus.jpeg
-  alt: "Circus at Las Vegas"
   caption: ""
 
 - image: /images/photography/dream_lake.jpg
@@ -28,6 +20,14 @@
 
 - image: /images/photography/redwood.jpg
   alt: ""
+  caption: ""
+
+- image: /images/photography/arches.jpeg
+  alt: "Arches National Park"
+  caption: ""
+
+- image: /images/photography/circus.jpeg
+  alt: "Circus at Las Vegas"
   caption: ""
 
 - image: /images/photography/sculpture.jpeg
