@@ -5,43 +5,31 @@ permalink: /portfolio/xr-prototypes
 collection: portfolio
 ---
 
-<div class="row">  <!-- Bootstrap Grid Row -->
-   <div class="col-md-4">  <!-- Column for each image (adjust md-4 for desired width) -->
-     <img src="/images/designs/chess.png" alt="Description of Image 1" class="img-fluid rounded">
-     <p class="caption text-center">Caption for Image 1</p>
+ <div class="row">
+ {% for video in site.data.videos %}
+   <div class="col-md-6">  <!-- Adjust col-md-* as needed -->
+     <h3>{{ video.title }}</h3>
+     <div class="video-container">  <!-- Add a container for aspect ratio -->
+       {{ video.embed_code }}
+     </div>
+     <p>{{ video.description }}</p>
    </div>
-   <div class="col-md-4">
-     <img src="/images/designs/MortalKombat.png" alt="Description of Image 2" class="img-fluid rounded">
-     <p class="caption text-center">Caption for Image 2</p>
-   </div>
-   <div class="col-md-4">
-     <img src="/images/designs/colors_of_bangladesh.png" alt="Description of Image 3" class="img-fluid rounded">
-     <p class="caption text-center">Caption for Image 3</p>
-   </div>
+ {% endfor %}
  </div>
 
-<!-- <h2 class="text-center">My Design Portfolio</h2>
+ <style>
+  .video-container {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 aspect ratio (adjust if needed) */
+    height: 0;
+    overflow: hidden;
+  }
 
-<div id="portfolioCarousel" class="carousel slide" data-bs-ride="carousel">
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img src="https://via.placeholder.com/800x400" class="d-block w-100" alt="Placeholder Image 1">
-    </div>
-    <div class="carousel-item">
-      <img src="https://via.placeholder.com/800x400" class="d-block w-100" alt="Placeholder Image 2">
-    </div>
-    <div class="carousel-item">
-      <img src="https://via.placeholder.com/800x400" class="d-block w-100" alt="Placeholder Image 3">
-    </div>
-  </div>
-  <button class="carousel-control-prev" type="button" data-bs-target="#portfolioCarousel" data-bs-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Previous</span>
-  </button>
-  <button class="carousel-control-next" type="button" data-bs-target="#portfolioCarousel" data-bs-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Next</span>
-  </button>
-</div>
-
-<p class="text-center mt-4">Explore my work by scrolling through the carousel!</p> -->
+  .video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+ </style>
