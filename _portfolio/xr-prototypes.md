@@ -1,9 +1,11 @@
 ---
 title: "XR Prototypes"
-excerpt: "These are the XR prototypes I created. <br/><img src='/images/500x300.png'>"
+excerpt: "As an XR researcher, I'm constantly exploring the possibilities of immersive technologies through the development of XR applications. My primary focus lies in crafting novel 3D interaction techniques aimed at elevating the user experience within these immersive environments. What you'll find below is a selection of prototypes showcasing some of these explorations. These projects reflect my skills as a Unity developer, my innovative solutions for interaction design, and my ability to visually communicate complex concepts, further honed through video editing. I hope this provides a glimpse into the ongoing evolution of my work in shaping the future of XR interaction."
 permalink: /portfolio/xr-prototypes
 collection: portfolio
 ---
+
+As an XR researcher, I'm constantly exploring the possibilities of immersive technologies through the development of XR applications. My primary focus lies in crafting novel 3D interaction techniques aimed at elevating the user experience within these immersive environments. What you'll find below is a selection of prototypes showcasing some of these explorations. These projects reflect my skills as a Unity developer, my innovative solutions for interaction design, and my ability to visually communicate complex concepts, further honed through video editing. I hope this provides a glimpse into the ongoing evolution of my work in shaping the future of XR interaction.
 
  <div class="row">
  {% for video in site.data.videos %}
