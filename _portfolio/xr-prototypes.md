@@ -5,6 +5,21 @@ permalink: /portfolio/xr-prototypes
 collection: portfolio
 ---
 
+<div class="row">  <!-- Bootstrap Grid Row -->
+   <div class="col-md-4">  <!-- Column for each image (adjust md-4 for desired width) -->
+     <img src="/images/designs/chess.png" alt="Description of Image 1" class="img-fluid rounded">
+     <p class="caption text-center">Caption for Image 1</p>
+   </div>
+   <div class="col-md-4">
+     <img src="/images/designs/MortalKombat.png" alt="Description of Image 2" class="img-fluid rounded">
+     <p class="caption text-center">Caption for Image 2</p>
+   </div>
+   <div class="col-md-4">
+     <img src="/images/designs/colors_of_bangladesh.png" alt="Description of Image 3" class="img-fluid rounded">
+     <p class="caption text-center">Caption for Image 3</p>
+   </div>
+ </div>
+
 <!-- <h2 class="text-center">My Design Portfolio</h2>
 
 <div id="portfolioCarousel" class="carousel slide" data-bs-ride="carousel">
