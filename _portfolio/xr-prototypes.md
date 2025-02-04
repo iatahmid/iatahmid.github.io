@@ -5,7 +5,7 @@ permalink: /portfolio/xr-prototypes
 collection: portfolio
 ---
 
-<h2 class="text-center">My Design Portfolio</h2>
+<!-- <h2 class="text-center">My Design Portfolio</h2>
 
 <div id="portfolioCarousel" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
@@ -29,4 +29,4 @@ collection: portfolio
   </button>
 </div>
 
-<p class="text-center mt-4">Explore my work by scrolling through the carousel!</p>
+<p class="text-center mt-4">Explore my work by scrolling through the carousel!</p> -->
