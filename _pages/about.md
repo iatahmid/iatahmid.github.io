@@ -17,7 +17,7 @@ Over the years, I've taken on impactful leadership roles that reflect my dedicat
 
 Current Position
 ======
-* **Looking for industry jobs realted to XR, HCI, and/or Human-Centered AI**
+* **Looking for industry jobs related to XR, HCI, and/or Human-Centered AI**
 * Ph.D in Computer Science, Virginia Tech, 2025 (expected)
   * Specialized in: Human-Computer Interaction, Extended Reality (AR/VR/MR/XR) 
   * Advisor: [Dr. Doug Bowman](https://wordpress.cs.vt.edu/3digroup/author/dbowman/)
