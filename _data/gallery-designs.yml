@@ -1,0 +1,11 @@
+- image: /images/designs/chess.png
+  alt: "Description of image 1"
+  caption: "Caption for image 1."
+
+- image: /images/designs/MortalKombat.png
+  alt: "Description of image 2"
+  caption: "Caption for image 2."
+
+- image: /images/designs/color_of_bangladesh.png
+  alt: "Description of image 3"
+  caption: "Caption for image 3."
