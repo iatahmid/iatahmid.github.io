@@ -1,11 +1,31 @@
 - image: /images/designs/chess.png
-  alt: "Description of image 1"
-  caption: "Caption for image 1."
+  alt: ""
+  caption: ""
 
 - image: /images/designs/MortalKombat.png
-  alt: "Description of image 2"
-  caption: "Caption for image 2."
+  alt: ""
+  caption: ""
 
-- image: /images/designs/color_of_bangladesh.png
-  alt: "Description of image 3"
-  caption: "Caption for image 3."
+- image: /images/designs/colors_of_bangladesh.png
+  alt: ""
+  caption: ""
+
+- image: /images/designs/FIFA.png
+  alt: ""
+  caption: ""
+
+- image: /images/designs/home_beyond_home.png
+  alt: ""
+  caption: ""
+
+- image: /images/designs/IB.png
+  alt: ""
+  caption: ""
+
+- image: /images/designs/TableTennis.png
+  alt: ""
+  caption: ""
+
+- image: /images/designs/ludo.png
+  alt: ""
+  caption: ""
