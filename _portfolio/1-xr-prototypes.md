@@ -15,7 +15,6 @@ As an XR researcher, I'm constantly exploring the possibilities of immersive tec
        {{ video.embed_code }}
      </div>
      <p>{{ video.description }}</p>
-     <hr>
    </div>
  {% endfor %}
  </div>
