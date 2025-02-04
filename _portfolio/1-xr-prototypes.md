@@ -10,11 +10,12 @@ As an XR researcher, I'm constantly exploring the possibilities of immersive tec
  <div class="row">
  {% for video in site.data.videos %}
    <div class="col-md-6">  <!-- Adjust col-md-* as needed -->
-     <h3>{{ video.title }}</h3>
+     <h2>{{ video.title }}</h2>
      <div class="video-container">  <!-- Add a container for aspect ratio -->
        {{ video.embed_code }}
      </div>
      <p>{{ video.description }}</p>
+     <hr>
    </div>
  {% endfor %}
  </div>
