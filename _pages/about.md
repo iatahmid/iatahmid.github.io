@@ -13,11 +13,11 @@ As a graduate student working at the intersection of HCI, XR, and AI, I have gai
 
 Over the years, I've taken on impactful leadership roles that reflect my dedication to fostering creativity and community. From organizing international exhibitions to community-building events celebrating cross-cultural differences, my goal has always been to create a safe, creative, and inspiring space for people around me. My dedication and perseverance have been recognized with accolades such as the [Aspire! Award](https://experience.vt.edu/2017/Ibrahim_Tahmid.html), affirming my commitment to excellence and meaningful impact.
 
-**I am currently open to industry research opportunities** where I can apply my research expertise in human-computer interaction, extended reality, and AI-driven systems. If you know of roles where I can contribute to innovative projects that bridge technology and user-centric design, I’d love to hear from you—[let's connect!](https://www.linkedin.com/in/iatahmid/)!
+**I am currently open to work** where I can apply my research expertise in human-computer interaction, extended reality, and AI-driven systems. If you know of roles where I can contribute to innovative projects that bridge technology and user-centric design, I’d love to hear from you—[let's connect!](https://www.linkedin.com/in/iatahmid/)!
 
 Current Position
 ======
-* **Looking for industry jobs with research opportunities**
+* **Looking for industry jobs realted to XR, HCI, and/or Human-Centered AI**
 * Ph.D in Computer Science, Virginia Tech, 2025 (expected)
   * Specialized in: Human-Computer Interaction, Extended Reality (AR/VR/MR/XR) 
   * Advisor: [Dr. Doug Bowman](https://wordpress.cs.vt.edu/3digroup/author/dbowman/)
