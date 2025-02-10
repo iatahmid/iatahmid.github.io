@@ -1,10 +1,22 @@
+ - title: Clean the Ocean (Winner of the 3DUI Contest 2022)
+   embed_code: <iframe width="560" height="315" src="https://www.youtube.com/embed/7KLEviduXVE?si=caBfYTJi_rsU3RLC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+   description: We adapted two classic interaction techniques, Go-Go and World in Miniature (WiM), to provide an engaging minigame in which the user collects the trash in the ocean. To improve the precision and address occlusion issues in the traditional Go-Go technique we propose ReX Go-Go. We also propose an adaptation to WiM, referred to as Rabbit-Out-of-the-Hat to allow an exocentric interaction for easier object retrieval interaction.
+
+ - title: Fantastic Voyage (Winner of the 3DUI Contest 2021)
+   embed_code: <iframe width="560" height="315" src="https://www.youtube.com/embed/H-P50u6YQCE?si=UJTd2dVqETMazJUN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+   description: We propose a solution to use interactive storytelling in immersive VR to promote science education for the general public on the topic of COVID-19 vaccination. The educational VR storytelling experience we have developed uses sci-fi storytelling, adventure and VR gameplay to illustrate how COVID-19 vaccines work. After playing the experience, users will understand how the immune system in the human body reacts to a COVID-19 vaccine so that it is prepared for a future infection from the real virus.
+
+ - title: Authentication in the Metaverse
+   embed_code: <iframe width="560" height="315" src="https://www.youtube.com/embed/kRjy340zRoI?si=zq8P2QXclH_a5fhh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+   description: We developed an authentication method that uses a virtual environment's individual assets as security tokens. To improve the token selection process, we introduce the HOG interaction technique. HOG combines two classic interaction techniques, Hook and Go-Go, and improves approximate object targeting and further obfuscation of user password token selections. We created an engaging mystery-solving mini-game to demonstrate our authentication method and interaction technique.
+
+ - title: Gesture-Based Math Operations in VR
+   embed_code: <iframe width="560" height="315" src="https://www.youtube.com/embed/zggBNpZ-IAs?si=bmuTEOFWZLUTTRHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+   description: We designed embodied gestures for arithmetic operations in virtual reality. The application creates an intuitive gamified experience designed to teach the interaction methods in an engaging setting.
+
  - title: Recommendation Agent driven by Gaze in the Immersive Space
    embed_code: <iframe width="560" height="315" src="https://www.youtube.com/embed/fc9HAB93rNA?si=aq92hSf8HfYu8YRI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
    description: Designed for intelligence analysts at DoD. The application integrates the user's gaze data to an AI agent in the background to generate a list of personalized recommendations for the user. The application also demonstrates several visualization techniques to convey the agent outputs to the user.
-
- - title: Your Eyes Know what You're Thinking
-   embed_code: <iframe width="560" height="315" src="https://www.youtube.com/embed/6gAcD0t01y0?si=f-OEuxE6aY1guy6N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-   description: Designed for DoD intelligence analysts. This prototype was designed to capture the eye tracking data of a user while they complete a fact-finding mission from a large set of inter-connected documents. We found strong evidence that in an otherwise unstructured environment, user's gaze data faithfully reveals how important a document is to the user.
 
  - title: Hybrid Meeting in Immersive Space
    embed_code: <iframe width="560" height="315" src="https://www.youtube.com/embed/rvap4Vc_Xyk?si=B13yDnZiyWDrF4Kp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -14,13 +26,9 @@
    embed_code: <iframe width="560" height="315" src="https://www.youtube.com/embed/9_4QCstI2ok?si=CsSMnO3K9F47R4bj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
    description: Designed for LLNL scientists. This is a demonstration of multiple people working together on a shared 3D model with annotations. The users can join and contribute to the networked persistent platform both synchronously and asynchronously.
 
- - title: Authentication in the Metaverse
-   embed_code: <iframe width="560" height="315" src="https://www.youtube.com/embed/kRjy340zRoI?si=zq8P2QXclH_a5fhh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-   description: We developed an authentication method that uses a virtual environment's individual assets as security tokens. To improve the token selection process, we introduce the HOG interaction technique. HOG combines two classic interaction techniques, Hook and Go-Go, and improves approximate object targeting and further obfuscation of user password token selections. We created an engaging mystery-solving mini-game to demonstrate our authentication method and interaction technique.
-
- - title: Gesture-Based Math Operations in VR
-   embed_code: <iframe width="560" height="315" src="https://www.youtube.com/embed/zggBNpZ-IAs?si=bmuTEOFWZLUTTRHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-   description: We designed embodied gestures for arithmetic operations in virtual reality. The application creates an intuitive gamified experience designed to teach the interaction methods in an engaging setting.
+ - title: Your Eyes Know what You're Thinking
+   embed_code: <iframe width="560" height="315" src="https://www.youtube.com/embed/6gAcD0t01y0?si=f-OEuxE6aY1guy6N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+   description: Designed for DoD intelligence analysts. This prototype was designed to capture the eye tracking data of a user while they complete a fact-finding mission from a large set of inter-connected documents. We found strong evidence that in an otherwise unstructured environment, user's gaze data faithfully reveals how important a document is to the user.
 
  - title: Real-Time Clustering in 3D Space
    embed_code: <iframe width="560" height="315" src="https://www.youtube.com/embed/G1B1lrLuMe0?si=yf9P0U99KIba0XLu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
