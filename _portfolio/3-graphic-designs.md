@@ -1,7 +1,7 @@
 ---
 title: "Graphic Designs"
 excerpt: "Throughout my experiences with various organizations, I've had the opportunity to explore my passion for graphic design, primarily creating posters and banners for events and initiatives. I like playing with colors and perspectives to bring a minimalist and aesthetically pleasing approach to my work. This small collection showcases a few examples of these designs, reflecting my personal style and the specific needs of each organization."
-permalink: /portfolio/2-graphic-designs
+permalink: /portfolio/graphic-designs
 collection: portfolio
 ---
 
