@@ -8,11 +8,10 @@ collection: portfolio
 Good design is about more than just aesthetics; it's about clarity, impact, and memorable storytelling. I apply these principles to every presentation I create, using minimalist designs to showcase ideas in a visually engaging and easy-to-digest format. Explore the different ways I presented my thought process to my peers.
 
 <h2>Mind Maps</h2>
-<ul>
-<li>[Working towards the solution of the sensemaking puzzle: Atlantic Storm](https://miro.com/app/board/uXjVO3EvBo8=/?share_link_id=96593911777)</li>
-<li>[Reimagined the classical sensemaking loop to incorporate human-centered AI](https://miro.com/app/board/uXjVNhscVXo=/?share_link_id=473893129426)</li>
-<li>[Coming up with the architecture of a human-cenetered recommendation model for immersive sensemaking](https://miro.com/app/board/uXjVNoWD9-U=/?share_link_id=977663301125)</li>
-</ul>
+
+* [Working towards the solution of the sensemaking puzzle: Atlantic Storm](https://miro.com/app/board/uXjVO3EvBo8=/?share_link_id=96593911777)
+* [Reimagined the classical sensemaking loop to incorporate human-centered AI](https://miro.com/app/board/uXjVNhscVXo=/?share_link_id=473893129426)
+* [Coming up with the architecture of a human-cenetered recommendation model for immersive sensemaking](https://miro.com/app/board/uXjVNoWD9-U=/?share_link_id=977663301125)
 
 
 <h2>Proposal Slides</h2>
