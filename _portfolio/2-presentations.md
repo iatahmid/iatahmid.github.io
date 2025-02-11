@@ -11,7 +11,7 @@ Good design is about more than just aesthetics; it's about clarity, impact, and 
 
 * [Working towards the solution of the sensemaking puzzle: Atlantic Storm](https://miro.com/app/board/uXjVO3EvBo8=/?share_link_id=96593911777)
 * [Reimagined the classical sensemaking loop to incorporate human-centered AI](https://miro.com/app/board/uXjVNhscVXo=/?share_link_id=473893129426)
-* [Coming up with the architecture of a human-cenetered recommendation model for immersive sensemaking](https://miro.com/app/board/uXjVNoWD9-U=/?share_link_id=977663301125)
+* [Coming up with the architecture of a gaze-driven recommendation model](https://miro.com/app/board/uXjVNoWD9-U=/?share_link_id=977663301125)
 
 
 <h2>Proposal Slides</h2>
