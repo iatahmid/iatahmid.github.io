@@ -11,7 +11,7 @@ redirect_from:
 
 Download Links
 ======
-* [One Page Resume](/files/Resume_IbrahimTahmid.pdf)
+* [CV](/files/CV_IbrahimTahmid.pdf)
 * [CliftonStrengths Results ](/files/CliftonStrengths_iatahmid.pdf)
 
 Education

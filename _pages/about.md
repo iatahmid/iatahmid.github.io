@@ -19,7 +19,7 @@ Current Position
 ======
 * **Looking for jobs. My research interests: Extended Reality (XR), Human-Computer Interaction (HCI), User Experience (UX), Usability Evaluation, Immersive Analytics, Human-Centered AI (HCAI)**
 * Ph.D in Computer Science, Virginia Tech. September 10, 2025.
-  * Specialized in: Human-Centered AI, Eye Tracking, Human-Computer Interaction, 3D User Interaction, User Experience (UX), Extended Reality (AR/VR/MR/XR) 
+  * Specialized in: Human-Centered AI, Eye Tracking, Immersive Analytics
   * Advisor: [Dr. Doug Bowman](https://wordpress.cs.vt.edu/3digroup/author/dbowman/)
   * Dissertation: <b>AI-Mediated Immersive Sensemaking with Gaze-Aware Rich Semantic Interaction</b>
   * Keywords: Eye Tracking, Human-AI Collaboration, Sensemaking, Semantic Interaction, Immersive Analytics
