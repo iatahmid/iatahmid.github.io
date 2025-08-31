@@ -16,13 +16,14 @@ Download Links
 
 Education
 ======
-* Ph.D in Human-Computer Interaction focusing on Mixed Reality, 2025 (expected)
+* Ph.D in Human-Computer Interaction focusing on Mixed Reality, September, 2025
 * B.S. in Bangladesh University of Engineering and Technology, 2017
 
 Work experience
 ======
-* Graduate Research Assistant, Computer Science, Virginia Tech (2019-)
-* Computing Scholar Intern, Lawrence Livermore National Lab, California (Summer, 2022)
+* Intern, XR Systems, Qualcomm (Summer, 2025)
+* Graduate Research Assistant, Computer Science, Virginia Tech (2019-2025)
+* Intern, Lawrence Livermore National Lab, California (Summer, 2022)
 * Full-Stack Software Developer, Reve Systems (October 2017 - July 2019)
 
 Professional Service
