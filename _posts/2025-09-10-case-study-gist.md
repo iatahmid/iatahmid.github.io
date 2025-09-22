@@ -20,7 +20,6 @@ feature_row:
     excerpt: "Mixed Reality workspace + gaze-aware AI cues to guide foraging and synthesis."
   - title: '<i class="fas fa-chart-line" aria-hidden="true"></i> Evidence'
     excerpt: "5 studies (N=115); alignment between self-reported relevance and GazeScore; lower workload signals."
-
 feature_row_cluster_conditions:
   - image_path: project/proximity_create.gif
     alt: "Proximity"
@@ -81,7 +80,7 @@ When users must browse large amounts of **interconnected** information, the proc
 ## <i class="fas fa-clipboard-check" aria-hidden="true"></i> Study 1: Validating Human–AI Collaboration
 **RQ:** Can AI alleviate user load by automating parts of the sensemaking process?
 
-{% include feature_row_cluster_conditions %}
+{% include feature_row id="feature_row_cluster_conditions" %}
 
 ### Experiment Design
 - **Participants:** Within-subjects (**N=27**)
