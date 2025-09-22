@@ -64,7 +64,7 @@ When users must browse large amounts of **interconnected** information, the proc
 
 ---
 
-## Study 1: Validating Human–AI Collaboration
+## <i class="fas fa-clipboard-check" aria-hidden="true"></i> Study 1: Validating Human–AI Collaboration
 **RQ:** Can AI alleviate user load by automating parts of the sensemaking process?
 
 ### Experiment Design
@@ -83,7 +83,7 @@ When users must browse large amounts of **interconnected** information, the proc
 
 ---
 
-## Study 2: Turning Gaze into Intent
+## <i class="fas fa-clipboard-check" aria-hidden="true"></i> Study 2: Turning Gaze into Intent
 **RQ:** How do we convert raw gaze into a reliable predictor of user **intent** during sensemaking?
 
 **Key Challenge:** In multi-document sensemaking, simple metrics (fixation time/count) suffer **frequency** and **length** biases. We introduced **GazeScore** to address these biases and tested its feasibility.
@@ -100,7 +100,7 @@ When users must browse large amounts of **interconnected** information, the proc
 
 ---
 
-## Design Approach
+## <i class="fas fa-palette" aria-hidden="true"></i> Design Approach
 It’s not enough to predict perception; the system must **communicate relevance** via intuitive visual cues while preserving task flow.
 
 **Cue goals**
@@ -184,7 +184,7 @@ It’s not enough to predict perception; the system must **communicate relevance
 
 ---
 
-## Evaluating GazeScore-Derived Cues
+## <i class="fas fa-clipboard-check" aria-hidden="true"></i> Evaluating GazeScore-Derived Cues
 **RQ:** Can gaze-derived cues help users **offload** parts of their thought process?
 
 ### Experiment Design
@@ -200,7 +200,7 @@ It’s not enough to predict perception; the system must **communicate relevance
 
 ---
 
-## Final Design Guidelines (Selected)
+## <i class="fas fa-list-check" aria-hidden="true"></i> Final Design Guidelines (Selected)
 - <i class="fas fa-seedling" aria-hidden="true"></i> **Invest in the start.** Ensure early exposure to **essential** information so gaze-aware AI learns from a solid baseline instead of compensating for poor priors.
 - <i class="fas fa-layer-group" aria-hidden="true"></i> **Reduce, then enrich.** Begin with **minimal, global signposts** during foraging; progressively layer **local, relationship-focused cues** as synthesis begins.
 - <i class="fas fa-check-circle" aria-hidden="true"></i> **Prioritize trust and clarity.** Attach brief explanations to each suggestion (key terms, one-line summary, confidence) so users can judge fit without breaking flow.
@@ -209,6 +209,6 @@ It’s not enough to predict perception; the system must **communicate relevance
 
 ---
 
-## Impact
+## <i class="fas fa-chart-line" aria-hidden="true"></i> Impact
 - **Academic:** Early evidence for **AI-mediated immersive sensemaking** using gaze-derived signals.  
 - **Industry:** Actionable guidelines for analysts working with **high-volume, interconnected** data in MR.
