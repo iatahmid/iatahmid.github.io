@@ -57,7 +57,7 @@ We identified the following two key problems:
   * Varjo XR-3 tethered to a PC. 
 * **Data Collection:** NASA TLX, SUS, UEQ, Semi-structured interview, Interaction Logs.
 
-### Findings
+### Key Findings
 > Users preferred automated appraoch because of the ease, comfort, and performance enhancement it offered. \\
 > Users were concerned about losing control when the AI did not provide rationales behind its actions.
 
@@ -75,9 +75,82 @@ We identified the following two key problems:
   * HoloLens 2 with eye-tracking enabled. 
 * **Data Collection:** NASA TLX, Self-reported topic relevance, Semi-structured interview, Interaction Logs, Eye-tracking logs.
 
-### Findings
+### Key Findings
 > Users' self-reported relevance aligned strongly with GazeScore-suggested relevance of the topics. \\
 > Users wished to include the GazeScore-derived suggestions within their sensemaking pipeline.
+
+## Design Approach
+It is not enough to just predict the user's perception, we need ways to convey that information to the user with meaningful and intuitive visual cues. We need to maintain the following criteria for these visual cues.
+
+* Detect Relevant Information
+* Quantify the Relevance
+* Readability of the Relevant Information
+* Readability of the Irrelevant Information
+* Preserving the Spatial Relation
+
+<!-- Table: Evaluation of the visual cues for document relevance representation -->
+<table style="width:100%; border-collapse:collapse;">
+  <thead>
+    <tr>
+      <th style="text-align:left;">&nbsp;</th>
+      <th style="text-align:center; width:7rem;">Size</th>
+      <th style="text-align:center; width:11rem;"><strong>Background Color</strong></th>
+      <th style="text-align:center; width:11rem;"><strong>Border Color</strong></th>
+      <th style="text-align:center; width:9rem;">Orientation</th>
+      <th style="text-align:center; width:9rem;">Animation</th>
+      <th style="text-align:center; width:7rem;">Depth</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Detect Relevant Documents</strong></td>
+      <td style="text-align:center;"><span class="badge" style="background:#e6ffed; color:#036200;">✓ Yes</span></td>
+      <td style="text-align:center;"><span class="badge" style="background:#e6ffed; color:#036200;">✓ Yes</span></td>
+      <td style="text-align:center;"><span class="badge" style="background:#fff4e5; color:#8a4b00;">~ Depends</span></td>
+      <td style="text-align:center;"><span class="badge" style="background:#e6ffed; color:#036200;">✓ Yes</span></td>
+      <td style="text-align:center;"><span class="badge" style="background:#e6ffed; color:#036200;">✓ Yes</span></td>
+      <td style="text-align:center;"><span class="badge" style="background:#e6ffed; color:#036200;">✓ Yes</span></td>
+    </tr>
+    <tr>
+      <td><strong>Quantify Relevance</strong></td>
+      <td style="text-align:center;"><span class="badge" style="background:#e6ffed; color:#036200;">✓ Yes</span></td>
+      <td style="text-align:center;"><span class="badge" style="background:#e6ffed; color:#036200;">✓ Yes</span></td>
+      <td style="text-align:center;"><span class="badge" style="background:#fff4e5; color:#8a4b00;">~ Depends</span></td>
+      <td style="text-align:center;"><span class="badge" style="background:#ffeef0; color:#8a1a1a;">✗ No</span></td>
+      <td style="text-align:center;"><span class="badge" style="background:#ffeef0; color:#8a1a1a;">✗ No</span></td>
+      <td style="text-align:center;"><span class="badge" style="background:#e6ffed; color:#036200;">✓ Yes</span></td>
+    </tr>
+    <tr>
+      <td><strong>Readability for Relevant Documents</strong></td>
+      <td style="text-align:center;"><span class="badge" style="background:#e6ffed; color:#036200;">✓ Yes</span></td>
+      <td style="text-align:center;"><span class="badge" style="background:#fff4e5; color:#8a4b00;">~ Depends</span></td>
+      <td style="text-align:center;"><span class="badge" style="background:#e6ffed; color:#036200;">✓ Yes</span></td>
+      <td style="text-align:center;"><span class="badge" style="background:#e6ffed; color:#036200;">✓ Yes</span></td>
+      <td style="text-align:center;"><span class="badge" style="background:#ffeef0; color:#8a1a1a;">✗ No</span></td>
+      <td style="text-align:center;"><span class="badge" style="background:#e6ffed; color:#036200;">✓ Yes</span></td>
+    </tr>
+    <tr>
+      <td><strong>Readability for Irrelevant Documents</strong></td>
+      <td style="text-align:center;"><span class="badge" style="background:#ffeef0; color:#8a1a1a;">✗ No</span></td>
+      <td style="text-align:center;"><span class="badge" style="background:#e6ffed; color:#036200;">✓ Yes</span></td>
+      <td style="text-align:center;"><span class="badge" style="background:#e6ffed; color:#036200;">✓ Yes</span></td>
+      <td style="text-align:center;"><span class="badge" style="background:#ffeef0; color:#8a1a1a;">✗ No</span></td>
+      <td style="text-align:center;"><span class="badge" style="background:#e6ffed; color:#036200;">✓ Yes</span></td>
+      <td style="text-align:center;"><span class="badge" style="background:#e6ffed; color:#036200;">✓ Yes</span></td>
+    </tr>
+    <tr>
+      <td><strong>Preserving Spatial Relation</strong></td>
+      <td style="text-align:center;"><span class="badge" style="background:#ffeef0; color:#8a1a1a;">✗ No</span></td>
+      <td style="text-align:center;"><span class="badge" style="background:#e6ffed; color:#036200;">✓ Yes</span></td>
+      <td style="text-align:center;"><span class="badge" style="background:#e6ffed; color:#036200;">✓ Yes</span></td>
+      <td style="text-align:center;"><span class="badge" style="background:#ffeef0; color:#8a1a1a;">✗ No</span></td>
+      <td style="text-align:center;"><span class="badge" style="background:#e6ffed; color:#036200;">✓ Yes</span></td>
+      <td style="text-align:center;"><span class="badge" style="background:#ffeef0; color:#8a1a1a;">✗ No</span></td>
+    </tr>
+  </tbody>
+</table>
+<p><em>Evaluation of the visual cues for document relevance representation.</em></p>
+
 
 ## Impact
 
