@@ -55,10 +55,10 @@ We identified the following two key problems:
   * Virtual room with a passthrough portal to the real world for access to the keyboard.
   * Controller interaction.
   * Varjo XR-3 tethered to a PC. 
-* **Data Collection:** NASA TLX, SUS, UEQ, Semi-structured interview
+* **Data Collection:** NASA TLX, SUS, UEQ, Semi-structured interview, Interaction Logs.
 
 ### Findings
-> Users preferred automated appraoch because of the ease, comfort, and performance enhancement it offered.
+> Users preferred automated appraoch because of the ease, comfort, and performance enhancement it offered. \\
 > Users were concerned about losing control when the AI did not provide rationales behind its actions.
 
 ## Study 2: Validating the use of Gaze
@@ -66,22 +66,18 @@ We identified the following two key problems:
 
 **Key Challenge:** In sensemaking, user has to make sense of multiple documents, each about single topics, but has implicit connections between them. For single topic documents, we can measure user's attention from just fixation duration and/or fixation count. But for sensemaking with multiple documents, they introduce frequency bias and length bias. So, we introduced **GazeScore** to address these biases and ran a study to validate the feasiblity of using this new metric.
 
-### Experiment Design (To be updated)
-* **Participants:** Within-subjects (N=27)
-* **Task:** Organizing a set of flash cards into meaningful clusters.
-* **Conditions:**
-  * Semi-Automated clustering: AI looks for cards in proximity and clusters them for the user
-  * User-controlled clustering: User makes their own clusters
-  * Control: There are no explicit clusters
+### Experiment Design
+* **Participants:** 12 Participants
+* **Task:** Solve a sensemaking puzzle encompassing 2 different plots entwined in the same dataset.
 * **User Experience:** 
-  * Virtual room with a passthrough portal to the real world for access to the keyboard.
-  * Controller interaction.
-  * Varjo XR-3 tethered to a PC. 
-* **Data Collection:** NASA TLX, SUS, UEQ, Semi-structured interview
+  * Virtual elements (documents, notes, and labels) overlaid on the real world.
+  * Hand gesture interactions.
+  * HoloLens 2 with eye-tracking enabled. 
+* **Data Collection:** NASA TLX, Self-reported topic relevance, Semi-structured interview, Interaction Logs, Eye-tracking logs.
 
-### Findings (To be updated)
-> Users preferred automated appraoch because of the ease, comfort, and performance enhancement it offered.
-> Users were concerned about losing control when the AI did not provide rationales behind its actions.
+### Findings
+> Users' self-reported relevance aligned strongly with GazeScore-suggested relevance of the topics. \\
+> Users wished to include the GazeScore-derived suggestions within their sensemaking pipeline.
 
 ## Impact
 
