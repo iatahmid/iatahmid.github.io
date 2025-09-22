@@ -37,33 +37,54 @@ We identified the following two key problems:
 * **Not enough space for data:** Users struggle with fitting the large amount of information in the space available to them.
 * **Exhaustive browsing:** Users need to store too many information in their mind while trying to find new related information at the same time.
 
-### Placeholder from here to the bottom of the page.
-**Design:** Between-subjects (Positive vs Neutral vs Negative tone)  
-**Validation:** Pre-test (N=78) to confirm perceived tone categories  
-**Main Study:** N=340 online; normalized audio; attention checks
+## Solution Proposal
+**Not enough space?** Use 3D environment to see the whole dataset at once, offering spatial memory, and embodied interaction.
+**Overloaded mind with information?:** Train an AI to monitor user's gaze to anticipate their perception of the data, and offer personalized visual cues to browse the data more efficiently.
 
-### Why Online?
-Standardized audio delivery at scale while preserving ecological validity for private, device-based interactions.
+## Study 1: Validating the effect of Human-AI Collboration
+**Research Question:** Can an AI alleaviate user's load by automating parts of their sensemaking task?
 
-## Findings
+### Experiment Design
+* **Participants:** Within-subjects (N=27)
+* **Task:** Organizing a set of flash cards into meaningful clusters.
+* **Conditions:**
+  * Semi-Automated clustering: AI looks for cards in proximity and clusters them for the user
+  * User-controlled clustering: User makes their own clusters
+  * Control: There are no explicit clusters
+* **User Experience:** 
+  * Virtual room with a passthrough portal to the real world for access to the keyboard.
+  * Controller interaction.
+  * Varjo XR-3 tethered to a PC. 
+* **Data Collection:** NASA TLX, SUS, UEQ, Semi-structured interview
 
+### Findings
+> Users preferred automated appraoch because of the ease, comfort, and performance enhancement it offered.
+> Users were concerned about losing control when the AI did not provide rationales behind its actions.
 
-### User Insights (Qual)
-> “The positive voice felt authentic and natural.”  
-> “Neutral sounded calm and unbiased.”  
-> “Negative came off as uninterested and distracting.”
+## Study 2: Validating the use of Gaze
+**Research Question:** How to turn raw gaze data into a predictor for users' intent during sensemaking?
+
+**Key Challenge:** In sensemaking, user has to make sense of multiple documents, each about single topics, but has implicit connections between them. For single topic documents, we can measure user's attention from just fixation duration and/or fixation count. But for sensemaking with multiple documents, they introduce frequency bias and length bias. So, we introduced **GazeScore** to address these biases and ran a study to validate the feasiblity of using this new metric.
+
+### Experiment Design (To be updated)
+* **Participants:** Within-subjects (N=27)
+* **Task:** Organizing a set of flash cards into meaningful clusters.
+* **Conditions:**
+  * Semi-Automated clustering: AI looks for cards in proximity and clusters them for the user
+  * User-controlled clustering: User makes their own clusters
+  * Control: There are no explicit clusters
+* **User Experience:** 
+  * Virtual room with a passthrough portal to the real world for access to the keyboard.
+  * Controller interaction.
+  * Varjo XR-3 tethered to a PC. 
+* **Data Collection:** NASA TLX, SUS, UEQ, Semi-structured interview
+
+### Findings (To be updated)
+> Users preferred automated appraoch because of the ease, comfort, and performance enhancement it offered.
+> Users were concerned about losing control when the AI did not provide rationales behind its actions.
 
 ## Impact
-**Academic:** Award-winning contribution to tone-aware conversational AI design  
-**Industry:** Actionable standards for voice tone choices in commerce & assistance
 
 ## Design Guidelines (Selected)
-- Match tone to task criticality; avoid overly negative tones for persuasion
-- Balance warmth with perceived expertise; clarity beats theatrics
-- Validate tones with target audiences before deployment
 
 ## Timeline
-- Month 1: Stimuli generation & normalization
-- Month 2: Tone validation (N=78) and study design
-- Month 3: Main study (N=340)
-- Month 4: Analysis & stakeholder synthesis
