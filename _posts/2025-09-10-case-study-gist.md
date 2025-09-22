@@ -88,14 +88,23 @@ It is not enough to just predict the user's perception, we need ways to convey t
 * Readability of the Irrelevant Information
 * Preserving the Spatial Relation
 
+We investigated the following visual cues and analyzed their effectiveness in achieving the criteria.
+
+* Size (more relevant => bigger document)
+* Background Color (more relevant => darker color)
+* Border Color (more relvant => darker color)
+* Orientation (less relevant => tilt the document)
+* Animation (brings more relevant documents closer)
+* Depth (pushes less relevant documents further from the user)
+
 <!-- Table: Evaluation of the visual cues for document relevance representation -->
 <table style="width:100%; border-collapse:collapse;">
   <thead>
     <tr>
       <th style="text-align:left;">&nbsp;</th>
       <th style="text-align:center; width:7rem;">Size</th>
-      <th style="text-align:center; width:11rem;"><strong>Background Color</strong></th>
-      <th style="text-align:center; width:11rem;"><strong>Border Color</strong></th>
+      <th style="text-align:center; width:11rem;"><strong>✅ Background Color</strong></th>
+      <th style="text-align:center; width:11rem;">Border Color</th>
       <th style="text-align:center; width:9rem;">Orientation</th>
       <th style="text-align:center; width:9rem;">Animation</th>
       <th style="text-align:center; width:7rem;">Depth</th>
@@ -106,7 +115,7 @@ It is not enough to just predict the user's perception, we need ways to convey t
       <td><strong>Detect Relevant Documents</strong></td>
       <td style="text-align:center;"><span class="badge" style="background:#e6ffed; color:#036200;">✓ Yes</span></td>
       <td style="text-align:center;"><span class="badge" style="background:#e6ffed; color:#036200;">✓ Yes</span></td>
-      <td style="text-align:center;"><span class="badge" style="background:#fff4e5; color:#8a4b00;">~ Depends</span></td>
+      <td style="text-align:center;"><span class="badge" style="background:#fff4e5; color:#8a4b00;">~ Depends on border thickness</span></td>
       <td style="text-align:center;"><span class="badge" style="background:#e6ffed; color:#036200;">✓ Yes</span></td>
       <td style="text-align:center;"><span class="badge" style="background:#e6ffed; color:#036200;">✓ Yes</span></td>
       <td style="text-align:center;"><span class="badge" style="background:#e6ffed; color:#036200;">✓ Yes</span></td>
@@ -115,7 +124,7 @@ It is not enough to just predict the user's perception, we need ways to convey t
       <td><strong>Quantify Relevance</strong></td>
       <td style="text-align:center;"><span class="badge" style="background:#e6ffed; color:#036200;">✓ Yes</span></td>
       <td style="text-align:center;"><span class="badge" style="background:#e6ffed; color:#036200;">✓ Yes</span></td>
-      <td style="text-align:center;"><span class="badge" style="background:#fff4e5; color:#8a4b00;">~ Depends</span></td>
+      <td style="text-align:center;"><span class="badge" style="background:#ffeef0; color:#8a1a1a;">✗ No</span></td>
       <td style="text-align:center;"><span class="badge" style="background:#ffeef0; color:#8a1a1a;">✗ No</span></td>
       <td style="text-align:center;"><span class="badge" style="background:#ffeef0; color:#8a1a1a;">✗ No</span></td>
       <td style="text-align:center;"><span class="badge" style="background:#e6ffed; color:#036200;">✓ Yes</span></td>
@@ -123,7 +132,7 @@ It is not enough to just predict the user's perception, we need ways to convey t
     <tr>
       <td><strong>Readability for Relevant Documents</strong></td>
       <td style="text-align:center;"><span class="badge" style="background:#e6ffed; color:#036200;">✓ Yes</span></td>
-      <td style="text-align:center;"><span class="badge" style="background:#fff4e5; color:#8a4b00;">~ Depends</span></td>
+      <td style="text-align:center;"><span class="badge" style="background:#fff4e5; color:#8a4b00;">~ Depends on color gradient</span></td>
       <td style="text-align:center;"><span class="badge" style="background:#e6ffed; color:#036200;">✓ Yes</span></td>
       <td style="text-align:center;"><span class="badge" style="background:#e6ffed; color:#036200;">✓ Yes</span></td>
       <td style="text-align:center;"><span class="badge" style="background:#ffeef0; color:#8a1a1a;">✗ No</span></td>
@@ -151,6 +160,7 @@ It is not enough to just predict the user's perception, we need ways to convey t
 </table>
 <p><em>Evaluation of the visual cues for document relevance representation.</em></p>
 
+Based on the evaluation, we chose background color as the visual cue to represent the user's perceived relevance.
 
 ## Impact
 
