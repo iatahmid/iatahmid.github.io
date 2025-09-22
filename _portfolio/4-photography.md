@@ -8,6 +8,14 @@ gallery:
     image_path: photography/aurnil.jpeg # required: the thumbnail shown on the page
     alt: ""
     title: ""                            # appears in the popup overlay
+  - url: photography/liberty.jpg
+    image_path: photography/liberty.jpg
+    alt: ""
+    title: ""
+  - url: photography/redwood.jpg
+    image_path: photography/redwood.jpg
+    alt: ""
+    title: ""
   - url: photography/arches.jpeg
     image_path: photography/arches.jpeg
     alt: ""
@@ -28,22 +36,14 @@ gallery:
     image_path: photography/horseshoe.jpeg
     alt: ""
     title: ""
-  - url: photography/liberty.jpg
-    image_path: photography/liberty.jpg
-    alt: ""
-    title: ""
-  - url: photography/redwood.jpg
-    image_path: photography/redwood.jpg
-    alt: ""
-    title: ""
   - url: photography/sculpture.jpeg
     image_path: photography/sculpture.jpeg
     alt: ""
     title: ""
-  - url: photography/sunset_kids.jpeg
-    image_path: photography/sunset_kids.jpeg
-    alt: ""
-    title: ""
+  # - url: photography/sunset_kids.jpeg
+  #   image_path: photography/sunset_kids.jpeg
+  #   alt: ""
+  #   title: ""
 ---
 
 Photography is more than just a hobby for me. It's a way of seeing and understanding the world. It's a language spoken through light, shadow, and perspective, allowing me to translate emotions and tell stories that words sometimes fail to convey. Here is a small collection of images from my journey of self-understanding, each representing a moment deeply etched into my memory. Please visit my Instagram page to find the most updated collection.
