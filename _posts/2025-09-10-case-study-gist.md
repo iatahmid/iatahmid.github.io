@@ -15,37 +15,6 @@ permalink: /post/2025/09/case-study-gist/
 tags:
   - ux
   - research
-classes: wide           # gives you more horizontal space for figures
-toc: true               # optional: shows a table of contents
-toc_sticky: true
-# optional: page header image
-header:
-  overlay_image: /assets/images/portfolio/voice/hero.jpg
-  overlay_filter: 0.35
-  caption: "Photo by You / Source"
-# Feature rows (thumbnails / highlights)
-feature_row:
-  - image_path: /assets/images/portfolio/voice/teaser1.jpg
-    alt: "Tone vs Persuasion"
-    title: "18–20% Persuasion Uplift"
-    excerpt: "Positive & neutral tones outperform negative."
-  - image_path: /assets/images/portfolio/voice/teaser2.jpg
-    alt: "Voice Age & Gender"
-    title: "Who Persuades More?"
-    excerpt: "Younger female & middle-aged male voices trend higher."
-  - image_path: /assets/images/portfolio/voice/teaser3.jpg
-    alt: "Design Guidelines"
-    title: "Actionable Guidance"
-    excerpt: "Tone choices for trustworthy voice UX."
-# Buttons for quick access
-paper_btn:
-  url: https://dl.acm.org/doi/your-doi
-  label: "Read Full Paper"
-  class: "btn btn--primary"
-repo_btn:
-  url: https://github.com/yourorg/yourrepo
-  label: "Project Repo"
-  class: "btn"
 ---
 
 <!-- Hero / Intro -->
