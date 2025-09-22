@@ -3,20 +3,16 @@ layout: archive
 title: "Prototypes"
 permalink: /prototypes/
 feature_row:
-  - image_path: teasers/clean_the_ocean.png
-    alt: "Test ALT Text"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: teasers/fantastic_voyage.PNG
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: teasers/logan_cropped.jpg
+    alt: "A person using the Gaze Aware analysis tool to solve a sensemaking puzzle"
+    title: "GIST: Gaze Aware Immersive Space to Think"
+    excerpt: "A case study of developing a Gaze Aware AI to help users make sense of raw data many to many connections."
     url: "#test-link"
-    btn_label: "Read More"
+    btn_label: "Read the Case Study"
     btn_class: "btn--inverse"
-  - image_path: teasers/colt.jpg
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  # - image_path: teasers/colt.jpg
+  #   title: "Placeholder 3"
+  #   excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
 
 {% include base_path %}
