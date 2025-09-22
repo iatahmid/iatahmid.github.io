@@ -37,7 +37,8 @@ We identified the following two key problems:
 * **Not enough space for data:** Users struggle with fitting the large amount of information in the space available to them.
 * **Exhaustive browsing:** Users need to store too many information in their mind while trying to find new related information at the same time.
 
-<!-- **Design:** Between-subjects (Positive vs Neutral vs Negative tone)  
+### Placeholder from here to the bottom of the page.
+**Design:** Between-subjects (Positive vs Neutral vs Negative tone)  
 **Validation:** Pre-test (N=78) to confirm perceived tone categories  
 **Main Study:** N=340 online; normalized audio; attention checks
 
@@ -46,18 +47,6 @@ Standardized audio delivery at scale while preserving ecological validity for pr
 
 ## Findings
 
-<!-- If you have images/charts, use Minimal Mistakes figure helper -->
-{% include figure
-    image_path="/assets/images/portfolio/voice/chart_tone_persuasion.png"
-    alt="Persuasiveness by tone"
-    caption="Positive & Neutral tones show ~18–20% higher persuasion than Negative."
-%}
-
-{% include figure
-    image_path="/assets/images/portfolio/voice/chart_age_gender.png"
-    alt="Persuasiveness by perceived age & gender"
-    caption="Younger female and middle-aged male voices trend ~16–18% higher."
-%}
 
 ### User Insights (Qual)
 > “The positive voice felt authentic and natural.”  
@@ -67,8 +56,6 @@ Standardized audio delivery at scale while preserving ecological validity for pr
 ## Impact
 **Academic:** Award-winning contribution to tone-aware conversational AI design  
 **Industry:** Actionable standards for voice tone choices in commerce & assistance
-
-{% include alert note="We used pseudonyms to protect participant privacy." %}
 
 ## Design Guidelines (Selected)
 - Match tone to task criticality; avoid overly negative tones for persuasion
@@ -80,10 +67,3 @@ Standardized audio delivery at scale while preserving ecological validity for pr
 - Month 2: Tone validation (N=78) and study design
 - Month 3: Main study (N=340)
 - Month 4: Analysis & stakeholder synthesis
-
-## Call to Action
-Interested in **UX Research for Conversational AI** or **AI-mediated interfaces**?
-- <a href="mailto:you@vt.edu">Email me</a>
-- <a href="https://www.linkedin.com/in/yourprofile" target="_blank" rel="noopener">LinkedIn</a>
-- <a href="/publications/" >Publications</a> -->
-
