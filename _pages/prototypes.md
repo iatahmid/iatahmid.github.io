@@ -7,7 +7,7 @@ feature_row:
     alt: "A person using the Gaze Aware analysis tool to solve a sensemaking puzzle"
     title: "GIST: Gaze Aware Immersive Space to Think"
     excerpt: "A case study of developing a Gaze Aware AI to help users make sense of raw data many to many connections."
-    url: "post/2025/09/case-study-gist/"
+    url: "/post/2025/09/case-study-gist/"
     btn_label: "Read the Case Study"
     btn_class: "btn--inverse"
   # - image_path: teasers/colt.jpg
