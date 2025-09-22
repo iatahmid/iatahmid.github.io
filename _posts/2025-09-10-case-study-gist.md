@@ -7,10 +7,10 @@ toc: true
 toc_sticky: true
 
 # Optional page header hero
-header:
-  overlay_image: images/teasers/logan_cropped.jpg
-  overlay_filter: 0.35
-  caption: "Prototype visuals sanitized for portfolio use"
+# header:
+#   overlay_image: images/teasers/logan_cropped.jpg
+#   overlay_filter: 0.35
+#   caption: "Prototype visuals sanitized for portfolio use"
 
 # Quick, scannable highlights (uses Minimal Mistakes feature_row)
 feature_row:
@@ -26,6 +26,8 @@ feature_row:
 **Audience:** UX Designer & UX Researcher recruiters.  
 **My role:** End-to-end research + prototyping in MR; eye-tracking–driven AI cues; multi-study validation.
 </div>
+
+{% include feature_row %}
 
 ## Introduction
 When users must browse large amounts of **interconnected** information, the process can be mentally exhausting. This project investigates how **Mixed Reality (MR)** and **Artificial Intelligence (AI)** can reduce that demand by guiding attention and supporting synthesis.
