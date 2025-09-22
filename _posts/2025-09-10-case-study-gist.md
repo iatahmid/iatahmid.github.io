@@ -5,6 +5,23 @@ permalink: /post/2025/09/case-study-gist/
 tags:
   - ux
   - research
+feature_row_guidelines:
+  - title: "Invest in the start"
+    excerpt: "Curate or bootstrap an initial evidence set (expert or agent) so gaze-aware cues amplify a solid baseline rather than compensate for poor priors."
+    icon: "fas fa-seedling"
+  - title: "Reduce, then enrich"
+    excerpt: "Use global, interpretable signposts during foraging; layer local, relationship-focused cues on demand during synthesis."
+    icon: "fas fa-layer-group"
+  - title: "Prioritize trust and clarity"
+    excerpt: "Attach brief explanations: contributing terms, one-line summary, and a confidence indicator to speed fit judgments."
+    icon: "fas fa-check-circle"
+  - title: "Preserve agency"
+    excerpt: "Offer accept/dismiss/defer/undo; maintain spatial stability and change layout only when requested."
+    icon: "fas fa-user-shield"
+  - title: "Keep assistance in situ"
+    excerpt: "Provide previews, lightweight filters, and context-aware actions near the content to reduce keyboard-based search."
+    icon: "fas fa-magic"
+
 ---
 
 ## Introduction
@@ -160,10 +177,29 @@ We investigated the following visual cues and analyzed their effectiveness in ac
 </table>
 <p><em>Evaluation of the visual cues for document relevance representation.</em></p>
 
-Based on the evaluation, we chose background color as the visual cue to represent the user's perceived relevance.
+Based on the evaluation, we chose **background color** as the visual cue to represent the user's perceived relevance.
+
+## Evaluating GazeScore-Derived Visual Cues
+**Research Question:** Can the users' gaze-derived visual cues help users offload their thought process?
+
+### Experiment Design
+* **Two Part Experiment:**
+  * *Experiment with Professional Analyst (N=4):* Solves a sensemaking puzzle efficiently but does not write down their approach. The AI monitors their gaze and annotates the documents with the visual cues.
+  * *Experiment with Novice Analyst (N=40):* Follows the professional's approach solely based on their gaze-derived visual cues.
+* **User Experience:** 
+  * Virtual elements (documents, notes, and labels) overlaid on the real world.
+  * 6-DOF controller interactions.
+  * Meta Quest Pro with eye-tracking enabled. 
+* **Data Collection:** NASA TLX, User Engagement Questionnaire, Trust in AI Questionnaire, Semi-structured interview, Interaction Logs, Eye-tracking logs.
+
+### Key Findings
+> Gaze-aware AI, with the visual cues, helps users to follow the professional analyst's approach to the puzzle. \\
+> Gaze-aware AI, with the visual cues, reduces the physical demand of the user.
+
+## Final Design Guidelines (Selected)
+{% include feature_row id="feature_row_guidelines" type="left" %}
 
 ## Impact
+* **Academic:** First step towards AI-mediated immersive sensemaking by leveraging eye-tracking data.
+* **Industry:** Design guidelines directly impacts professional analysts whose regular responsibilities require them to perform sensemaking.
 
-## Design Guidelines (Selected)
-
-## Timeline
