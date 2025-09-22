@@ -3,10 +3,27 @@ layout: archive
 title: "Portfolio"
 permalink: /portfolio/
 author_profile: true
+feature_row:
+  - image_path: teasers/logan_cropped.jpg
+    alt: "A person using the Gaze Aware analysis tool to solve a sensemaking puzzle"
+    title: "GIST: Gaze Aware Immersive Space to Think"
+    excerpt: "A case study of developing a Gaze Aware AI to help users make sense of raw data many to many connections."
+    url: "/post/2025/09/case-study-gist/"
+    btn_label: "Read the Case Study"
+    btn_class: "btn--inverse"
+  - image_path: teasers/logan_cropped.jpg
+    alt: "Sample photography"
+    title: "Photography"
+    excerpt: "Photography"
+    url: "/portfolio/photography"
+    btn_label: "See the Photos"
+    btn_class: "btn--inverse"
 ---
 
 {% include base_path %}
 
-{% for post in site.portfolio %}
+{% include feature_row %}
+
+<!-- {% for post in site.portfolio %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
