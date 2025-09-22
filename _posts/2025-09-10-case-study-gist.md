@@ -6,9 +6,8 @@ tags:
   - ux
   - research
 feature_row_guidelines:
-  - title: "Invest in the start"
+  - title: '<i class="fas fa-seedling" aria-hidden="true"></i> Invest in the start'
     excerpt: "Curate or bootstrap an initial evidence set (expert or agent) so gaze-aware cues amplify a solid baseline rather than compensate for poor priors."
-    icon: "fas fa-seedling"
   - title: "Reduce, then enrich"
     excerpt: "Use global, interpretable signposts during foraging; layer local, relationship-focused cues on demand during synthesis."
     icon: "fas fa-layer-group"
