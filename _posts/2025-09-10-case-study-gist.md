@@ -5,22 +5,6 @@ permalink: /post/2025/09/case-study-gist/
 tags:
   - ux
   - research
-feature_row_guidelines:
-  - title: '<i class="fas fa-seedling" aria-hidden="true"></i> Invest in the start'
-    excerpt: "Curate or bootstrap an initial evidence set (expert or agent) so gaze-aware cues amplify a solid baseline rather than compensate for poor priors."
-  - title: "Reduce, then enrich"
-    excerpt: "Use global, interpretable signposts during foraging; layer local, relationship-focused cues on demand during synthesis."
-    icon: "fas fa-layer-group"
-  - title: "Prioritize trust and clarity"
-    excerpt: "Attach brief explanations: contributing terms, one-line summary, and a confidence indicator to speed fit judgments."
-    icon: "fas fa-check-circle"
-  - title: "Preserve agency"
-    excerpt: "Offer accept/dismiss/defer/undo; maintain spatial stability and change layout only when requested."
-    icon: "fas fa-user-shield"
-  - title: "Keep assistance in situ"
-    excerpt: "Provide previews, lightweight filters, and context-aware actions near the content to reduce keyboard-based search."
-    icon: "fas fa-magic"
-
 ---
 
 ## Introduction
@@ -196,7 +180,12 @@ Based on the evaluation, we chose **background color** as the visual cue to repr
 > Gaze-aware AI, with the visual cues, reduces the physical demand of the user.
 
 ## Final Design Guidelines (Selected)
-{% include feature_row id="feature_row_guidelines" type="left" %}
+- <i class="fas fa-seedling" aria-hidden="true"></i> **Invest in the start.** Curate or bootstrap an initial evidence set—via expert judgment or an agent—so gaze-aware cues amplify a solid baseline rather than compensate for poor priors.
+- <i class="fas fa-layer-group" aria-hidden="true"></i> **Reduce, then enrich.** During foraging, highlight global, interpretable signposts to lower friction; add local, relationship-focused cues on demand as analysts begin to synthesize.
+- <i class="fas fa-check-circle" aria-hidden="true"></i> **Prioritize trust and clarity.** Attach short explanations to each suggestion (key contributing terms, a one-line summary, and a confidence indicator) so analysts can judge fit quickly.
+- <i class="fas fa-user-shield" aria-hidden="true"></i> **Preserve agency.** Provide explicit controls to accept, dismiss, defer, or undo. Keep spatial stability and change layout only on analyst request.
+- <i class="fas fa-magic" aria-hidden="true"></i> **Keep assistance in situ.** Reduce unnecessary keyboard search with previews, lightweight filters, and context-aware actions near the relevant content.
+
 
 ## Impact
 * **Academic:** First step towards AI-mediated immersive sensemaking by leveraging eye-tracking data.
