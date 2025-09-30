@@ -80,8 +80,6 @@ When users must browse large amounts of **interconnected** information, the proc
 ## <i class="fas fa-clipboard-check" aria-hidden="true"></i> Study 1: Validating Human–AI Collaboration
 **RQ:** Can AI alleviate user load by automating parts of the sensemaking process?
 
-{% include feature_row id="feature_row_cluster_conditions" %}
-
 ### Experiment Design
 - **Participants:** Within-subjects (**N=27**)
 - **Task:** Organize flash cards into meaningful clusters
@@ -91,6 +89,8 @@ When users must browse large amounts of **interconnected** information, the proc
   - **Control:** No explicit clusters
 - **User Experience:** Virtual room with a passthrough portal to keyboard; controller interaction; **Varjo XR-3** (tethered)
 - **Data:** **NASA-TLX**, **SUS**, **UEQ**, semi-structured interview, interaction logs
+
+{% include feature_row id="feature_row_cluster_conditions" %}
 
 ### Key Findings
 > Users preferred the **semi-automated** approach for **ease, comfort, and performance**.  

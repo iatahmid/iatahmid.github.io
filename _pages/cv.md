@@ -38,8 +38,8 @@ Awards and Honors
 * Recipient of Pratt Fellowship for the academic year 2024-25
 * Recipient of the 3DUI Contest Winner 2021, 2022
 * Awarded for organizing the Most Outstanding Program of the year 2022
-* Runners Up in DIU Hackathon 2017
-* Runners Up in Brac Hackathon 2017
+* Best Project Entry, DIU Hackathon 2017
+* Best Project Entry, Brac Hackathon 2017
 * Runners Up in National Math Olympiad, 2010
 
 Community Service and Leadership
@@ -50,22 +50,9 @@ Community Service and Leadership
 
 Skills
 ======
-* Mixed Reality Research
-  * Unity 
-  * Unreal
-  * C#
-  * Eye tracking
-  * Developing for XR headsets: Meta Quest (2, 3, Pro), Varjo XR-3, HoloLens 2, Magic Leap 2, HTC Vive, 
-* Human-AI Collaboration Research
-  * Transformer-based similarity models
-  * User-centered AI recommendations
-  * Text summarization 
-  * Topic modeling
-  * Information retrieval
-* HCI Research
-  * UX design and evaluation
-  * User Studies
-  * Statistical analysis
+* Mixed Reality Research: Unity, Unreal, C#, Eye tracking, Developing for XR headsets: Meta Quest (2, 3, Pro), Varjo XR-3, HoloLens 2, Magic Leap 2, HTC Vive, 
+* Human-AI Collaboration Research: Transformer-based similarity models, User-centered AI recommendations, Text summarization, Topic modeling, Information retrieval
+* HCI Research: UX design and evaluation, User Studies, Statistical analysis
 
 Publications
 ======
