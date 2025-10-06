@@ -21,10 +21,10 @@ Current Position
 * Ph.D in Computer Science, Virginia Tech. September 10, 2025.
   * Specialized in: Human-Centered AI, Eye Tracking, Immersive Analytics
   * Advisor: [Dr. Doug Bowman](https://wordpress.cs.vt.edu/3digroup/author/dbowman/)
-  * Dissertation: <b>AI-Mediated Immersive Sensemaking with Gaze-Aware Rich Semantic Interaction</b>
+  * Dissertation: <b>Toward AI-Mediated Immersive Sensemaking with Gaze-Aware Rich Semantic Interaction</b>
   * Keywords: Eye Tracking, Human-AI Collaboration, Sensemaking, Semantic Interaction, Immersive Analytics
   * Selected Project: [Eye-Enhanced Immersive Space to Think (EyeST)](https://iatahmid.github.io/publication/2025-03-24-eyest-recommendations)
-* [Download my resume for more details](/files/Resume_IbrahimTahmid.pdf)
+* [Download my resume for more details](/files/CV_IbrahimTahmid.pdf)
 
 <!-- Professional Service
 ======
