@@ -13,7 +13,7 @@ As a graduate student working at the intersection of HCI, XR, and AI, I have gai
 
 Over the years, I've taken on impactful leadership roles that reflect my dedication to fostering creativity and community. From organizing international exhibitions to community-building events celebrating cross-cultural differences, my goal has always been to create a safe, creative, and inspiring space for people around me. My dedication and perseverance have been recognized with accolades such as the [Aspire! Award](https://experience.vt.edu/2017/Ibrahim_Tahmid.html), affirming my commitment to excellence and meaningful impact.
 
-**I am actively seeking full-time opportunities as a Research Scientist, Research Engineer and/or Post-Doc Researcher** focusing on human-centered AI, user experience design, and mixed reality. To learn more about my work, [let's connect!](https://www.linkedin.com/in/iatahmid/)!
+**I am actively seeking full-time opportunities as a Research Scientist, Research Engineer or Post-Doc Researcher** focusing on human-centered AI, user experience design, and mixed reality. To learn more about my work, [let's connect!](https://www.linkedin.com/in/iatahmid/)!
 
 Current Position
 ======
