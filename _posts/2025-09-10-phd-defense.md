@@ -1,5 +1,5 @@
 ---
-title: 'Defended My Ph.D. Thesis'
+title: 'Say Hello to Dr. Tahmid!'
 date: 2025-09-10
 permalink: /post/2025/09/phd-defense/
 tags:
