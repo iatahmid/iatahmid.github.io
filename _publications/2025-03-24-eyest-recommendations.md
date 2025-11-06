@@ -20,8 +20,8 @@ date: 2025-03-24
 venue: '30th Annual ACM Conference on Intelligent User Interface (IUI)'
 teaser: '/images/teasers/eyest_recommendations_teaser.jpg'
 slidesurl: ''
-prototypeurl: ''
-paperurl: ''
+prototypeurl: 'https://youtu.be/fc9HAB93rNA?si=erfqStrGFtp2O5lo'
+paperurl: 'https://dl.acm.org/doi/full/10.1145/3708359.3712103'
 citation: 'Tahmid, I. A., North, C., Davidson, K., Whitley, K., & Bowman, D. A. (2025, March). <em>Enhancing Immersive Sensemaking with Gaze-Driven Smart Recommendations</em>. In 2025 ACM Intelligent User Intefaces (IUI). ACM.'
 ---
 
@@ -34,4 +34,7 @@ The answer is a resounding yes!
 However, the key to such human-AI collaboration lies in user acceptance. Our research underscores that regardless of AI sophistication, trust and effectiveness hinge on context. 
 Explainability and transparency are pivotal; users must comprehend not just the AI’s actions, but also the rationale behind its recommendations. Without these elements, even the most intelligent systems may fall short.
 
-So, what should we keep in mind for AI-mediated sensemaking in the immersive space? Read our paper to know more! (link to be added later)
+So, what should we keep in mind for AI-mediated sensemaking in the immersive space? Read our paper to know more! 
+
+Paper Link: https://dl.acm.org/doi/full/10.1145/3708359.3712103
+Demo Link: https://youtu.be/fc9HAB93rNA?si=erfqStrGFtp2O5lo
